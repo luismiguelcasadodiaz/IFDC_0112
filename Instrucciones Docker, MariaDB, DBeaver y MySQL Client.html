@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<!-- saved from url=(0034)https://mariadbdocker.netlify.app/ -->
+<html lang="es"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Instrucciones Docker, MariaDB, DBeaver y MySQL Client</title>
+</head>
+<body>
+    <h1>Instrucciones para configurar Docker, MariaDB, cliente MySQL y DBeaver en Alpine Linux y máquinas Hyper-V</h1>
+
+    <h2>Paso 1: Instalar Docker en Alpine Linux</h2>
+    <ol>
+        <li>Actualiza los repositorios e instala Docker:</li>
+        <pre><code>sudo apk update</code></pre>
+        <pre><code>sudo apk add docker</code></pre>
+
+        <li>Arrancar Docker</li>
+        <pre><code>sudo service docker start</code></pre>
+
+        <li>Verifica que Docker está instalado correctamente:</li>
+        <pre><code>docker --version</code></pre>
+    </ol>
+
+    <hr>
+
+    <h2>Paso 3: Instalar DBeaver en tu máquina local</h2>
+    <ol>
+        <li>Dirígete a la página oficial de DBeaver: <a href="https://dbeaver.io/download/" target="_blank">https://dbeaver.io/download/</a></li>
+        <li>Descarga e instala la versión correspondiente a tu sistema operativo.</li>
+    </ol>
+
+    <hr>
+
+    <h2>Paso 4: Instalar MySQL Client en Alpine Linux (si deseas acceder desde la terminal)</h2>
+    <ol>
+        <li>Si deseas conectarte a MariaDB desde la terminal usando el cliente MySQL, instala el cliente de MySQL con el siguiente comando:</li>
+        <pre><code>sudo apk add mysql-client</code></pre>
+
+        <li>Conéctate al contenedor de MariaDB con el cliente MySQL (reemplaza <code>&lt;IP_DEL_CONTENEDOR&gt;</code> por la IP del contenedor o máquina):</li>
+        <pre><code>mysql -h &lt;IP_DEL_CONTENEDOR&gt; -u root -p</code></pre>
+        <li>Luego ingresa la contraseña de root cuando se te solicite.</li>
+    </ol>
+
+    <hr>
+
+    <h2>Paso 5: Conectarse a MariaDB desde DBeaver</h2>
+    <ol>
+        <li>Abre DBeaver e ingresa los datos de conexión:
+            <ul>
+                <li><strong>Host</strong>: Dirección IP de la máquina virtual donde corre MariaDB (debe ser la IP de la máquina de Hyper-V).</li>
+                <li><strong>Puerto</strong>: 3306</li>
+                <li><strong>Usuario</strong>: root</li>
+                <li><strong>Contraseña</strong>: root (la contraseña que configuraste).</li>
+            </ul>
+        </li>
+
+        <li>Haz clic en "Test Connection" para verificar la conexión y luego en "Finish" para completar.</li>
+    </ol>
+
+    <hr>
+
+    <h2>Paso 6: Conectarse al MariaDB de tus compañeros</h2>
+    <ol>
+        <li>En la máquina virtual de Hyper-V, abre la configuración de la máquina virtual.</li>
+        <li>Selecciona "Adaptador de red" y elige "Conmutador externo" en la configuración de la máquina virtual.</li>
+        <li>Configura una IP estática para la máquina virtual (asegúrate de que esté en la misma red que la máquina local).</li>
+        <li>Asegúrate de que tu máquina local puede acceder a esa IP.</li>
+    </ol>
+
+    <hr>
+
+    <h2>Paso 7: Obtener la IP de la máquina del compañero</h2>
+    <p>Para saber la IP de la máquina virtual de tu compañero, puedes usar el siguiente comando dentro de la máquina virtual de Hyper-V:</p>
+    <pre><code>ip a</code></pre>
+    <p>Este comando te mostrará la dirección IP de la máquina virtual. Debes buscar la interfaz de red que esté conectada a la red externa, normalmente tendrá una IP como <code>192.168.x.x</code> o similar.</p>
+
+    <hr>
+
+    <h2>¡Listo!</h2>
+    <p>Ahora deberías estar conectado a la base de datos MariaDB de tu compañero desde DBeaver, o desde la terminal con el cliente MySQL.</p>
+
+
+</body></html>
