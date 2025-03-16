@@ -1,0 +1,57 @@
+﻿Pais_PK;Pais_txt;Continente_FK
+AGO;Angola;1
+ARG;Argentina;2
+BRA;Brasil;2
+AUS;Australia;3
+AUT;Austria;4
+BEL;Bélgica;4
+CAN;Canadá;2
+CHE;Suiza;4
+CHL;Chile;2
+CHN;China;5
+CMR;Camerún;1
+COL;Colombia;2
+CRI;Costa Rica;2
+CZE;República Checa;4
+DEU;Alemania;4
+DOM;República Dominicana;2
+DZA;Argelia;1
+ECU;Ecuador;2
+EGY;Egipto;1
+ESP;España;4
+FIN;Finlandia;4
+FRA;Francia;4
+GBR;Reino Unido;4
+GRC;Grecia;4
+GTM;Guatemala;2
+HUN;Hungría;4
+IDN;Indonesia;5
+IND;India;5
+IRL;Irlanda;4
+IRN;Irán;5
+ISR;Israel;5
+ITA;Italia;4
+JPN;Japón;5
+KEN;Kenia;1
+KOR;República de Corea;5
+MEX;México;2
+MYS;Malasia;5
+NGA;Nigeria;1
+NOR;Noruega;4
+PER;Perú;2
+PHL;Filipinas;5
+POL;Polonia;4
+PRT;Portugal;4
+RUS;Rusia;5
+SDN;Sudán;1
+SVK;Eslovaquia;4
+SWE;Suecia;4
+THA;Tailandia;5
+TUR;Turquía;5
+TZA;Tanzania;1
+UKR;Ucrania;4
+USA;Estados Unidos;2
+VEN;Venezuela;2
+YEM;Yemen;5
+ZAF;Sudáfrica;1
+NZL;Nueva Zelanda;3

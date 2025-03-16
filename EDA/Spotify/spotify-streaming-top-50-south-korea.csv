@@ -1647,7 +1647,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-06-19,46,I Don’t Think That I Like Her,Charlie Puth,73,188507,album,12,2022-10-06,False,https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49
 2023-06-19,47,Kill Bill,SZA,94,153946,album,23,2022-12-08,False,https://i.scdn.co/image/ab67616d0000b2730c471c36970b9406233842a5
 2023-06-19,48,LOVE DIVE,IVE,83,177186,single,2,2022-04-05,False,https://i.scdn.co/image/ab67616d0000b2739016f58cc49e6473e1207093
-2023-06-19,49,"Steal The Show - From ""Elemental""",Lauv,70,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-06-19,49,"Steal The Show - From 'Elemental',Lauv,70,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-06-19,50,That's What I Like,Bruno Mars,87,206693,album,9,2016-11-17,False,https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5
 2023-06-20,1,"Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",Fast & Furious: The Fast Saga & Jimin & BTS,89,175802,single,2,2023-05-17,False,https://i.scdn.co/image/ab67616d0000b273445afb6341d2685b959251cc
 2023-06-20,2,Like Crazy,Jimin,94,212241,single,6,2023-03-24,False,https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d
@@ -1682,7 +1682,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-06-20,31,NIGHT DANCER,imase,78,210600,album,7,2022-11-09,False,https://i.scdn.co/image/ab67616d0000b2734b062591b6a5c15652dd2bb5
 2023-06-20,32,Attention,NewJeans,84,180066,single,4,2022-08-01,False,https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209
 2023-06-20,33,S-Class,Stray Kids,88,195688,album,12,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b273d8025c5b4c1f01c69ebdc935
-2023-06-20,34,"Steal The Show - From ""Elemental""",Lauv,70,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-06-20,34,"Steal The Show - From 'Elemental',Lauv,70,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-06-20,35,Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack],Jung Kook & BTS,87,201391,single,1,2022-11-20,False,https://i.scdn.co/image/ab67616d0000b273ef57183066d6cac0cabb85c6
 2023-06-20,36,ANTIFRAGILE,LE SSERAFIM,78,184444,album,13,2023-05-01,False,https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7
 2023-06-20,37,FLOWER,JISOO,85,173134,single,2,2023-03-31,False,https://i.scdn.co/image/ab67616d0000b273f35b8a6c03cc633f734bd8ac
@@ -1729,7 +1729,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-06-21,28,Cupid - Twin Ver.,FIFTY FIFTY,99,174253,single,3,2023-02-24,False,https://i.scdn.co/image/ab67616d0000b27337c0b3670236c067c8e8bbcb
 2023-06-21,29,VIBE (feat. Jimin of BTS),TAEYANG,71,175775,album,6,2023-04-25,False,https://i.scdn.co/image/ab67616d0000b27346313223adf2b6d726388328
 2023-06-21,30,If We Ever Meet Again,Lim Young Woong,61,274386,album,12,2022-05-02,False,https://i.scdn.co/image/ab67616d0000b2738f116e476da669a9a3e7dcaa
-2023-06-21,31,"Steal The Show - From ""Elemental""",Lauv,71,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-06-21,31,"Steal The Show - From 'Elemental',Lauv,71,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-06-21,32,Promise,Jimin,77,151011,single,1,2018-12-31,False,https://i.scdn.co/image/ab67616d0000b27321d21c44fa7a2495c37ce088
 2023-06-21,33,Attention,NewJeans,84,180066,single,4,2022-08-01,False,https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209
 2023-06-21,34,Cupid,FIFTY FIFTY,88,174253,single,3,2023-02-24,False,https://i.scdn.co/image/ab67616d0000b27337c0b3670236c067c8e8bbcb
@@ -1780,7 +1780,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-06-22,29,VIBE (feat. Jimin of BTS),TAEYANG,71,175775,album,6,2023-04-25,False,https://i.scdn.co/image/ab67616d0000b27346313223adf2b6d726388328
 2023-06-22,30,If We Ever Meet Again,Lim Young Woong,61,274386,album,12,2022-05-02,False,https://i.scdn.co/image/ab67616d0000b2738f116e476da669a9a3e7dcaa
 2023-06-22,31,Promise,Jimin,77,151011,single,1,2018-12-31,False,https://i.scdn.co/image/ab67616d0000b27321d21c44fa7a2495c37ce088
-2023-06-22,32,"Steal The Show - From ""Elemental""",Lauv,72,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-06-22,32,"Steal The Show - From 'Elemental',Lauv,72,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-06-22,33,Like Crazy (Deep House Remix),Jimin,71,180719,single,5,2023-03-26,False,https://i.scdn.co/image/ab67616d0000b273f9638e7ed5b7d42e9c514195
 2023-06-22,34,Cupid,FIFTY FIFTY,88,174253,single,3,2023-02-24,False,https://i.scdn.co/image/ab67616d0000b27337c0b3670236c067c8e8bbcb
 2023-06-22,35,Like Crazy (UK Garage Remix),Jimin,71,210395,single,5,2023-03-26,False,https://i.scdn.co/image/ab67616d0000b273f9638e7ed5b7d42e9c514195
@@ -1827,7 +1827,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-06-23,26,Cupid - Twin Ver.,FIFTY FIFTY,99,174253,single,3,2023-02-24,False,https://i.scdn.co/image/ab67616d0000b27337c0b3670236c067c8e8bbcb
 2023-06-23,27,If We Ever Meet Again,Lim Young Woong,61,274386,album,12,2022-05-02,False,https://i.scdn.co/image/ab67616d0000b2738f116e476da669a9a3e7dcaa
 2023-06-23,28,Super,SEVENTEEN,88,200386,single,6,2023-04-24,False,https://i.scdn.co/image/ab67616d0000b27380e31ba0c05187e6310ef264
-2023-06-23,29,"Steal The Show - From ""Elemental""",Lauv,72,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-06-23,29,"Steal The Show - From 'Elemental',Lauv,72,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-06-23,30,Attention,NewJeans,84,180066,single,4,2022-08-01,False,https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209
 2023-06-23,31,With you,Jimin & HA SUNG WOON,76,201905,single,2,2022-04-24,False,https://i.scdn.co/image/ab67616d0000b273d90bd8b97e49216c00e55d18
 2023-06-23,32,VIBE (feat. Jimin of BTS),TAEYANG,71,175775,album,6,2023-04-25,False,https://i.scdn.co/image/ab67616d0000b27346313223adf2b6d726388328
@@ -1876,7 +1876,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-06-24,25,Broken Melodies,NCT DREAM,69,226160,single,1,2023-06-19,False,https://i.scdn.co/image/ab67616d0000b273c56ad1f03ab69a8a447d509c
 2023-06-24,26,Cupid - Twin Ver.,FIFTY FIFTY,99,174253,single,3,2023-02-24,False,https://i.scdn.co/image/ab67616d0000b27337c0b3670236c067c8e8bbcb
 2023-06-24,27,If We Ever Meet Again,Lim Young Woong,61,274386,album,12,2022-05-02,False,https://i.scdn.co/image/ab67616d0000b2738f116e476da669a9a3e7dcaa
-2023-06-24,28,"Steal The Show - From ""Elemental""",Lauv,72,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-06-24,28,"Steal The Show - From 'Elemental',Lauv,72,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-06-24,29,Super,SEVENTEEN,88,200386,single,6,2023-04-24,False,https://i.scdn.co/image/ab67616d0000b27380e31ba0c05187e6310ef264
 2023-06-24,30,Attention,NewJeans,84,180066,single,4,2022-08-01,False,https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209
 2023-06-24,31,Cupid,FIFTY FIFTY,88,174253,single,3,2023-02-24,False,https://i.scdn.co/image/ab67616d0000b27337c0b3670236c067c8e8bbcb
@@ -1922,7 +1922,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-06-25,21,Kitsch,IVE,80,195440,album,11,2023-04-10,False,https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8
 2023-06-25,22,London Boy,Lim Young Woong,65,244500,single,2,2022-11-15,False,https://i.scdn.co/image/ab67616d0000b2732d2009b6cad53ddacad11334
 2023-06-25,23,Polaroid,Lim Young Woong,64,206400,single,2,2022-11-15,False,https://i.scdn.co/image/ab67616d0000b2732d2009b6cad53ddacad11334
-2023-06-25,24,"Steal The Show - From ""Elemental""",Lauv,73,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-06-25,24,"Steal The Show - From 'Elemental',Lauv,73,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-06-25,25,Cupid - Twin Ver.,FIFTY FIFTY,99,174253,single,3,2023-02-24,False,https://i.scdn.co/image/ab67616d0000b27337c0b3670236c067c8e8bbcb
 2023-06-25,26,If We Ever Meet Again,Lim Young Woong,61,274386,album,12,2022-05-02,False,https://i.scdn.co/image/ab67616d0000b2738f116e476da669a9a3e7dcaa
 2023-06-25,27,Super,SEVENTEEN,88,200386,single,6,2023-04-24,False,https://i.scdn.co/image/ab67616d0000b27380e31ba0c05187e6310ef264
@@ -1972,7 +1972,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-06-26,21,Kitsch,IVE,80,195440,album,11,2023-04-10,False,https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8
 2023-06-26,22,London Boy,Lim Young Woong,65,244500,single,2,2022-11-15,False,https://i.scdn.co/image/ab67616d0000b2732d2009b6cad53ddacad11334
 2023-06-26,23,Polaroid,Lim Young Woong,64,206400,single,2,2022-11-15,False,https://i.scdn.co/image/ab67616d0000b2732d2009b6cad53ddacad11334
-2023-06-26,24,"Steal The Show - From ""Elemental""",Lauv,73,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-06-26,24,"Steal The Show - From 'Elemental',Lauv,73,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-06-26,25,Cupid - Twin Ver.,FIFTY FIFTY,99,174253,single,3,2023-02-24,False,https://i.scdn.co/image/ab67616d0000b27337c0b3670236c067c8e8bbcb
 2023-06-26,26,If We Ever Meet Again,Lim Young Woong,61,274386,album,12,2022-05-02,False,https://i.scdn.co/image/ab67616d0000b2738f116e476da669a9a3e7dcaa
 2023-06-26,27,Super,SEVENTEEN,88,200386,single,6,2023-04-24,False,https://i.scdn.co/image/ab67616d0000b27380e31ba0c05187e6310ef264
@@ -2018,7 +2018,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-06-27,17,Left and Right (Feat. Jung Kook of BTS),Charlie Puth,87,154486,album,12,2022-10-06,False,https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49
 2023-06-27,18,Ditto,NewJeans,89,185506,single,1,2022-12-19,False,https://i.scdn.co/image/ab67616d0000b273edf5b257be1d6593e81bb45f
 2023-06-27,19,Grain of Sand,Lim Young Woong,64,220309,single,1,2023-06-05,False,https://i.scdn.co/image/ab67616d0000b273111a6e9b713b646443c5c222
-2023-06-27,20,"Steal The Show - From ""Elemental""",Lauv,73,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-06-27,20,"Steal The Show - From 'Elemental',Lauv,73,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-06-27,21,Hype Boy,NewJeans,87,179026,single,4,2022-08-01,False,https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209
 2023-06-27,22,Kitsch,IVE,80,195440,album,11,2023-04-10,False,https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8
 2023-06-27,23,London Boy,Lim Young Woong,65,244500,single,2,2022-11-15,False,https://i.scdn.co/image/ab67616d0000b2732d2009b6cad53ddacad11334
@@ -2063,7 +2063,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-06-28,12,"Eve, Psyche & The Bluebeard’s wife",LE SSERAFIM,85,185538,album,13,2023-05-01,False,https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7
 2023-06-28,13,Take Two,BTS,95,229953,single,1,2023-06-09,False,https://i.scdn.co/image/ab67616d0000b2738a701e76e8845928f6cd81c8
 2023-06-28,14,Spicy,aespa,85,197040,single,6,2023-05-08,False,https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce
-2023-06-28,15,"Steal The Show - From ""Elemental""",Lauv,74,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-06-28,15,"Steal The Show - From 'Elemental',Lauv,74,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-06-28,16,OMG,NewJeans,92,212253,single,2,2023-01-02,False,https://i.scdn.co/image/ab67616d0000b273d70036292d54f29e8b68ec01
 2023-06-28,17,Left and Right (Feat. Jung Kook of BTS),Charlie Puth,87,154486,album,12,2022-10-06,False,https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49
 2023-06-28,18,UNFORGIVEN (feat. Nile Rodgers),LE SSERAFIM,89,182148,album,13,2023-05-01,False,https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7
@@ -2113,7 +2113,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-06-29,12,アイドル,YOASOBI,91,213233,single,1,2023-04-12,False,https://i.scdn.co/image/ab67616d0000b273b7d6ca50bf766ad72226290c
 2023-06-29,13,Take Two,BTS,95,229953,single,1,2023-06-09,False,https://i.scdn.co/image/ab67616d0000b2738a701e76e8845928f6cd81c8
 2023-06-29,14,Spicy,aespa,85,197040,single,6,2023-05-08,False,https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce
-2023-06-29,15,"Steal The Show - From ""Elemental""",Lauv,74,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-06-29,15,"Steal The Show - From 'Elemental',Lauv,74,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-06-29,16,OMG,NewJeans,92,212253,single,2,2023-01-02,False,https://i.scdn.co/image/ab67616d0000b273d70036292d54f29e8b68ec01
 2023-06-29,17,Left and Right (Feat. Jung Kook of BTS),Charlie Puth,87,154486,album,12,2022-10-06,False,https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49
 2023-06-29,18,UNFORGIVEN (feat. Nile Rodgers),LE SSERAFIM,89,182148,album,13,2023-05-01,False,https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7
@@ -2163,7 +2163,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-06-30,12,アイドル,YOASOBI,91,213233,single,1,2023-04-12,False,https://i.scdn.co/image/ab67616d0000b273b7d6ca50bf766ad72226290c
 2023-06-30,13,Take Two,BTS,95,229953,single,1,2023-06-09,False,https://i.scdn.co/image/ab67616d0000b2738a701e76e8845928f6cd81c8
 2023-06-30,14,Spicy,aespa,85,197040,single,6,2023-05-08,False,https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce
-2023-06-30,15,"Steal The Show - From ""Elemental""",Lauv,74,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-06-30,15,"Steal The Show - From 'Elemental',Lauv,74,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-06-30,16,OMG,NewJeans,92,212253,single,2,2023-01-02,False,https://i.scdn.co/image/ab67616d0000b273d70036292d54f29e8b68ec01
 2023-06-30,17,Left and Right (Feat. Jung Kook of BTS),Charlie Puth,87,154486,album,12,2022-10-06,False,https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49
 2023-06-30,18,UNFORGIVEN (feat. Nile Rodgers),LE SSERAFIM,89,182148,album,13,2023-05-01,False,https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7
@@ -2212,7 +2212,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-07-01,11,"Eve, Psyche & The Bluebeard’s wife",LE SSERAFIM,86,185538,album,13,2023-05-01,False,https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7
 2023-07-01,12,Queencard,(G)I-DLE,90,161240,single,6,2023-05-15,False,https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616
 2023-07-01,13,アイドル,YOASOBI,91,213233,single,1,2023-04-12,False,https://i.scdn.co/image/ab67616d0000b273b7d6ca50bf766ad72226290c
-2023-07-01,14,"Steal The Show - From ""Elemental""",Lauv,75,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-07-01,14,"Steal The Show - From 'Elemental',Lauv,75,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-07-01,15,Spicy,aespa,85,197040,single,6,2023-05-08,False,https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce
 2023-07-01,16,Left and Right (Feat. Jung Kook of BTS),Charlie Puth,87,154486,album,12,2022-10-06,False,https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49
 2023-07-01,17,OMG,NewJeans,92,212253,single,2,2023-01-02,False,https://i.scdn.co/image/ab67616d0000b273d70036292d54f29e8b68ec01
@@ -2265,7 +2265,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-07-02,14,Spicy,aespa,85,197040,single,6,2023-05-08,False,https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce
 2023-07-02,15,アイドル,YOASOBI,91,213233,single,1,2023-04-12,False,https://i.scdn.co/image/ab67616d0000b273b7d6ca50bf766ad72226290c
 2023-07-02,16,OMG,NewJeans,92,212253,single,2,2023-01-02,False,https://i.scdn.co/image/ab67616d0000b273d70036292d54f29e8b68ec01
-2023-07-02,17,"Steal The Show - From ""Elemental""",Lauv,75,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-07-02,17,"Steal The Show - From 'Elemental',Lauv,75,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-07-02,18,UNFORGIVEN (feat. Nile Rodgers),LE SSERAFIM,89,182148,album,13,2023-05-01,False,https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7
 2023-07-02,19,Ditto,NewJeans,89,185506,single,1,2022-12-19,False,https://i.scdn.co/image/ab67616d0000b273edf5b257be1d6593e81bb45f
 2023-07-02,20,Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack],Jung Kook & BTS,87,201391,single,1,2022-11-20,False,https://i.scdn.co/image/ab67616d0000b273ef57183066d6cac0cabb85c6
@@ -2315,7 +2315,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-07-03,14,アイドル,YOASOBI,91,213233,single,1,2023-04-12,False,https://i.scdn.co/image/ab67616d0000b273b7d6ca50bf766ad72226290c
 2023-07-03,15,Spicy,aespa,85,197040,single,6,2023-05-08,False,https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce
 2023-07-03,16,OMG,NewJeans,92,212253,single,2,2023-01-02,False,https://i.scdn.co/image/ab67616d0000b273d70036292d54f29e8b68ec01
-2023-07-03,17,"Steal The Show - From ""Elemental""",Lauv,75,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-07-03,17,"Steal The Show - From 'Elemental',Lauv,75,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-07-03,18,UNFORGIVEN (feat. Nile Rodgers),LE SSERAFIM,89,182148,album,13,2023-05-01,False,https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7
 2023-07-03,19,Ditto,NewJeans,89,185506,single,1,2022-12-19,False,https://i.scdn.co/image/ab67616d0000b273edf5b257be1d6593e81bb45f
 2023-07-03,20,Hype Boy,NewJeans,87,179026,single,4,2022-08-01,False,https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209
@@ -2359,7 +2359,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-07-04,8,Left and Right (Feat. Jung Kook of BTS),Charlie Puth,87,154486,album,12,2022-10-06,False,https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49
 2023-07-04,9,Take Two,BTS,95,229953,single,1,2023-06-09,False,https://i.scdn.co/image/ab67616d0000b2738a701e76e8845928f6cd81c8
 2023-07-04,10,I AM,IVE,89,183853,album,11,2023-04-10,False,https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8
-2023-07-04,11,"Steal The Show - From ""Elemental""",Lauv,75,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-07-04,11,"Steal The Show - From 'Elemental',Lauv,75,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-07-04,12,"Eve, Psyche & The Bluebeard’s wife",LE SSERAFIM,86,185538,album,13,2023-05-01,False,https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7
 2023-07-04,13,アイドル,YOASOBI,91,213233,single,1,2023-04-12,False,https://i.scdn.co/image/ab67616d0000b273b7d6ca50bf766ad72226290c
 2023-07-04,14,Queencard,(G)I-DLE,90,161240,single,6,2023-05-15,False,https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616
@@ -2411,7 +2411,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-07-05,10,Take Two,BTS,96,229953,single,1,2023-06-09,False,https://i.scdn.co/image/ab67616d0000b2738a701e76e8845928f6cd81c8
 2023-07-05,11,Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack],Jung Kook & BTS,87,201391,single,1,2022-11-20,False,https://i.scdn.co/image/ab67616d0000b273ef57183066d6cac0cabb85c6
 2023-07-05,12,Travel Again (Feat. Cautious Clay),Beenzino,42,257066,album,18,2023-07-03,True,https://i.scdn.co/image/ab67616d0000b273ec4d37775e78943aa8bfe275
-2023-07-05,13,"Steal The Show - From ""Elemental""",Lauv,76,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-07-05,13,"Steal The Show - From 'Elemental',Lauv,76,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-07-05,14,アイドル,YOASOBI,91,213233,single,1,2023-04-12,False,https://i.scdn.co/image/ab67616d0000b273b7d6ca50bf766ad72226290c
 2023-07-05,15,I AM,IVE,89,183853,album,11,2023-04-10,False,https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8
 2023-07-05,16,"Eve, Psyche & The Bluebeard’s wife",LE SSERAFIM,86,185538,album,13,2023-05-01,False,https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7
@@ -2461,7 +2461,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-07-06,10,Take Two,BTS,96,229953,single,1,2023-06-09,False,https://i.scdn.co/image/ab67616d0000b2738a701e76e8845928f6cd81c8
 2023-07-06,11,Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack],Jung Kook & BTS,87,201391,single,1,2022-11-20,False,https://i.scdn.co/image/ab67616d0000b273ef57183066d6cac0cabb85c6
 2023-07-06,12,Travel Again (Feat. Cautious Clay),Beenzino,48,257066,album,18,2023-07-03,True,https://i.scdn.co/image/ab67616d0000b273ec4d37775e78943aa8bfe275
-2023-07-06,13,"Steal The Show - From ""Elemental""",Lauv,76,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-07-06,13,"Steal The Show - From 'Elemental',Lauv,76,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-07-06,14,アイドル,YOASOBI,91,213233,single,1,2023-04-12,False,https://i.scdn.co/image/ab67616d0000b273b7d6ca50bf766ad72226290c
 2023-07-06,15,I AM,IVE,89,183853,album,11,2023-04-10,False,https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8
 2023-07-06,16,"Eve, Psyche & The Bluebeard’s wife",LE SSERAFIM,86,185538,album,13,2023-05-01,False,https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7
@@ -2510,7 +2510,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-07-07,9,Still With You,Jung Kook,84,239905,single,1,2020-06-05,False,https://i.scdn.co/image/ab67616d0000b273a7f42c375578df426b37638d
 2023-07-07,10,Take Two,BTS,96,229953,single,1,2023-06-09,False,https://i.scdn.co/image/ab67616d0000b2738a701e76e8845928f6cd81c8
 2023-07-07,11,Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack],Jung Kook & BTS,87,201391,single,1,2022-11-20,False,https://i.scdn.co/image/ab67616d0000b273ef57183066d6cac0cabb85c6
-2023-07-07,12,"Steal The Show - From ""Elemental""",Lauv,76,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-07-07,12,"Steal The Show - From 'Elemental',Lauv,76,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-07-07,13,アイドル,YOASOBI,91,213233,single,1,2023-04-12,False,https://i.scdn.co/image/ab67616d0000b273b7d6ca50bf766ad72226290c
 2023-07-07,14,I AM,IVE,89,183853,album,11,2023-04-10,False,https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8
 2023-07-07,15,"Eve, Psyche & The Bluebeard’s wife",LE SSERAFIM,86,185538,album,13,2023-05-01,False,https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7
@@ -2559,7 +2559,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-07-08,8,Left and Right (Feat. Jung Kook of BTS),Charlie Puth,88,154486,album,12,2022-10-06,False,https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49
 2023-07-08,9,Still With You,Jung Kook,86,239905,single,1,2020-06-05,False,https://i.scdn.co/image/ab67616d0000b273a7f42c375578df426b37638d
 2023-07-08,10,Take Two,BTS,96,229953,single,1,2023-06-09,False,https://i.scdn.co/image/ab67616d0000b2738a701e76e8845928f6cd81c8
-2023-07-08,11,"Steal The Show - From ""Elemental""",Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-07-08,11,"Steal The Show - From 'Elemental',Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-07-08,12,Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack],Jung Kook & BTS,87,201391,single,1,2022-11-20,False,https://i.scdn.co/image/ab67616d0000b273ef57183066d6cac0cabb85c6
 2023-07-08,13,アイドル,YOASOBI,92,213233,single,1,2023-04-12,False,https://i.scdn.co/image/ab67616d0000b273b7d6ca50bf766ad72226290c
 2023-07-08,14,I AM,IVE,89,183853,album,11,2023-04-10,False,https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8
@@ -2612,7 +2612,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-07-09,11,Still With You,Jung Kook,86,239905,single,1,2020-06-05,False,https://i.scdn.co/image/ab67616d0000b273a7f42c375578df426b37638d
 2023-07-09,12,OMG,NewJeans,92,212253,single,2,2023-01-02,False,https://i.scdn.co/image/ab67616d0000b273d70036292d54f29e8b68ec01
 2023-07-09,13,Take Two,BTS,96,229953,single,1,2023-06-09,False,https://i.scdn.co/image/ab67616d0000b2738a701e76e8845928f6cd81c8
-2023-07-09,14,"Steal The Show - From ""Elemental""",Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-07-09,14,"Steal The Show - From 'Elemental',Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-07-09,15,Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack],Jung Kook & BTS,87,201391,single,1,2022-11-20,False,https://i.scdn.co/image/ab67616d0000b273ef57183066d6cac0cabb85c6
 2023-07-09,16,"Eve, Psyche & The Bluebeard’s wife",LE SSERAFIM,86,185538,album,13,2023-05-01,False,https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7
 2023-07-09,17,I AM,IVE,89,183853,album,11,2023-04-10,False,https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8
@@ -2659,7 +2659,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-07-10,8,Alone,Jimin,81,211250,single,6,2023-03-24,False,https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d
 2023-07-10,9,Interlude : Dive,Jimin,78,130996,single,6,2023-03-24,False,https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d
 2023-07-10,10,Left and Right (Feat. Jung Kook of BTS),Charlie Puth,88,154486,album,12,2022-10-06,False,https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49
-2023-07-10,11,"Steal The Show - From ""Elemental""",Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-07-10,11,"Steal The Show - From 'Elemental',Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-07-10,12,Still With You,Jung Kook,87,239905,single,1,2020-06-05,False,https://i.scdn.co/image/ab67616d0000b273a7f42c375578df426b37638d
 2023-07-10,13,"Eve, Psyche & The Bluebeard’s wife",LE SSERAFIM,86,185538,album,13,2023-05-01,False,https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7
 2023-07-10,14,OMG,NewJeans,92,212253,single,2,2023-01-02,False,https://i.scdn.co/image/ab67616d0000b273d70036292d54f29e8b68ec01
@@ -2708,7 +2708,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-07-11,7,Face-off,Jimin,82,229627,single,6,2023-03-24,True,https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d
 2023-07-11,8,Alone,Jimin,81,211250,single,6,2023-03-24,False,https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d
 2023-07-11,9,Left and Right (Feat. Jung Kook of BTS),Charlie Puth,88,154486,album,12,2022-10-06,False,https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49
-2023-07-11,10,"Steal The Show - From ""Elemental""",Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-07-11,10,"Steal The Show - From 'Elemental',Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-07-11,11,Interlude : Dive,Jimin,78,130996,single,6,2023-03-24,False,https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d
 2023-07-11,12,Still With You,Jung Kook,88,239905,single,1,2020-06-05,False,https://i.scdn.co/image/ab67616d0000b273a7f42c375578df426b37638d
 2023-07-11,13,Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack],Jung Kook & BTS,87,201391,single,1,2022-11-20,False,https://i.scdn.co/image/ab67616d0000b273ef57183066d6cac0cabb85c6
@@ -2758,7 +2758,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-07-12,7,Face-off,Jimin,82,229627,single,6,2023-03-24,True,https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d
 2023-07-12,8,Alone,Jimin,81,211250,single,6,2023-03-24,False,https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d
 2023-07-12,9,Left and Right (Feat. Jung Kook of BTS),Charlie Puth,88,154486,album,12,2022-10-06,False,https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49
-2023-07-12,10,"Steal The Show - From ""Elemental""",Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-07-12,10,"Steal The Show - From 'Elemental',Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-07-12,11,Interlude : Dive,Jimin,78,130996,single,6,2023-03-24,False,https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d
 2023-07-12,12,Still With You,Jung Kook,88,239905,single,1,2020-06-05,False,https://i.scdn.co/image/ab67616d0000b273a7f42c375578df426b37638d
 2023-07-12,13,Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack],Jung Kook & BTS,87,201391,single,1,2022-11-20,False,https://i.scdn.co/image/ab67616d0000b273ef57183066d6cac0cabb85c6
@@ -2810,7 +2810,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-07-13,9,Left and Right (Feat. Jung Kook of BTS),Charlie Puth,88,154486,album,12,2022-10-06,False,https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49
 2023-07-13,10,Interlude : Dive,Jimin,78,130996,single,6,2023-03-24,False,https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d
 2023-07-13,11,Still With You,Jung Kook,89,239905,single,1,2020-06-05,False,https://i.scdn.co/image/ab67616d0000b273a7f42c375578df426b37638d
-2023-07-13,12,"Steal The Show - From ""Elemental""",Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-07-13,12,"Steal The Show - From 'Elemental',Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-07-13,13,Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack],Jung Kook & BTS,87,201391,single,1,2022-11-20,False,https://i.scdn.co/image/ab67616d0000b273ef57183066d6cac0cabb85c6
 2023-07-13,14,Take Two,BTS,95,229953,single,1,2023-06-09,False,https://i.scdn.co/image/ab67616d0000b2738a701e76e8845928f6cd81c8
 2023-07-13,15,"Eve, Psyche & The Bluebeard’s wife",LE SSERAFIM,86,185538,album,13,2023-05-01,False,https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7
@@ -2856,7 +2856,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-07-14,5,Like Crazy (English Version),Jimin,87,212253,single,6,2023-03-24,False,https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d
 2023-07-14,6,Set Me Free Pt.2,Jimin,85,200929,single,1,2023-03-17,True,https://i.scdn.co/image/ab67616d0000b2734f4ec2c2a865569bd4a067a4
 2023-07-14,7,Left and Right (Feat. Jung Kook of BTS),Charlie Puth,88,154486,album,12,2022-10-06,False,https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49
-2023-07-14,8,"Steal The Show - From ""Elemental""",Lauv,78,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-07-14,8,"Steal The Show - From 'Elemental',Lauv,78,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-07-14,9,Still With You,Jung Kook,89,239905,single,1,2020-06-05,False,https://i.scdn.co/image/ab67616d0000b273a7f42c375578df426b37638d
 2023-07-14,10,Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack],Jung Kook & BTS,87,201391,single,1,2022-11-20,False,https://i.scdn.co/image/ab67616d0000b273ef57183066d6cac0cabb85c6
 2023-07-14,11,"Eve, Psyche & The Bluebeard’s wife",LE SSERAFIM,86,185538,album,13,2023-05-01,False,https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7
@@ -2907,7 +2907,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-07-15,6,Set Me Free Pt.2,Jimin,85,200929,single,1,2023-03-17,True,https://i.scdn.co/image/ab67616d0000b2734f4ec2c2a865569bd4a067a4
 2023-07-15,7,Left and Right (Feat. Jung Kook of BTS),Charlie Puth,88,154486,album,12,2022-10-06,False,https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49
 2023-07-15,8,Still With You,Jung Kook,90,239905,single,1,2020-06-05,False,https://i.scdn.co/image/ab67616d0000b273a7f42c375578df426b37638d
-2023-07-15,9,"Steal The Show - From ""Elemental""",Lauv,78,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-07-15,9,"Steal The Show - From 'Elemental',Lauv,78,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-07-15,10,Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack],Jung Kook & BTS,87,201391,single,1,2022-11-20,False,https://i.scdn.co/image/ab67616d0000b273ef57183066d6cac0cabb85c6
 2023-07-15,11,Face-off,Jimin,82,229627,single,6,2023-03-24,True,https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d
 2023-07-15,12,Take Two,BTS,95,229953,single,1,2023-06-09,False,https://i.scdn.co/image/ab67616d0000b2738a701e76e8845928f6cd81c8
@@ -2961,7 +2961,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-07-16,10,Seven (feat. Latto) (Instrumental),Jung Kook & Latto,74,184240,single,3,2023-07-14,False,https://i.scdn.co/image/ab67616d0000b273bf5cce5a0e1ed03a626bdd74
 2023-07-16,11,Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack],Jung Kook & BTS,88,201391,single,1,2022-11-20,False,https://i.scdn.co/image/ab67616d0000b273ef57183066d6cac0cabb85c6
 2023-07-16,12,Take Two,BTS,95,229953,single,1,2023-06-09,False,https://i.scdn.co/image/ab67616d0000b2738a701e76e8845928f6cd81c8
-2023-07-16,13,"Steal The Show - From ""Elemental""",Lauv,78,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-07-16,13,"Steal The Show - From 'Elemental',Lauv,78,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-07-16,14,Face-off,Jimin,82,229627,single,6,2023-03-24,True,https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d
 2023-07-16,15,Alone,Jimin,81,211250,single,6,2023-03-24,False,https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d
 2023-07-16,16,My You,Jung Kook,87,165070,single,1,2022-06-13,False,https://i.scdn.co/image/ab67616d0000b2733c036f2042fc3567248c116d
@@ -3008,7 +3008,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-07-17,7,Set Me Free Pt.2,Jimin,85,200929,single,1,2023-03-17,True,https://i.scdn.co/image/ab67616d0000b2734f4ec2c2a865569bd4a067a4
 2023-07-17,8,Still With You,Jung Kook,90,239905,single,1,2020-06-05,False,https://i.scdn.co/image/ab67616d0000b273a7f42c375578df426b37638d
 2023-07-17,9,Left and Right (Feat. Jung Kook of BTS),Charlie Puth,88,154486,album,12,2022-10-06,False,https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49
-2023-07-17,10,"Steal The Show - From ""Elemental""",Lauv,78,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-07-17,10,"Steal The Show - From 'Elemental',Lauv,78,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-07-17,11,Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack],Jung Kook & BTS,88,201391,single,1,2022-11-20,False,https://i.scdn.co/image/ab67616d0000b273ef57183066d6cac0cabb85c6
 2023-07-17,12,Seven (feat. Latto) (Instrumental),Jung Kook & Latto & BTS,77,184240,single,3,2023-07-14,False,https://i.scdn.co/image/ab67616d0000b273bf5cce5a0e1ed03a626bdd74
 2023-07-17,13,Take Two,BTS,95,229953,single,1,2023-06-09,False,https://i.scdn.co/image/ab67616d0000b2738a701e76e8845928f6cd81c8
@@ -3058,7 +3058,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-07-18,7,Set Me Free Pt.2,Jimin,85,200929,single,1,2023-03-17,True,https://i.scdn.co/image/ab67616d0000b2734f4ec2c2a865569bd4a067a4
 2023-07-18,8,Still With You,Jung Kook,91,239905,single,1,2020-06-05,False,https://i.scdn.co/image/ab67616d0000b273a7f42c375578df426b37638d
 2023-07-18,9,Left and Right (Feat. Jung Kook of BTS),Charlie Puth,88,154486,album,12,2022-10-06,False,https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49
-2023-07-18,10,"Steal The Show - From ""Elemental""",Lauv,78,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-07-18,10,"Steal The Show - From 'Elemental',Lauv,78,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-07-18,11,Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack],Jung Kook & BTS,88,201391,single,1,2022-11-20,False,https://i.scdn.co/image/ab67616d0000b273ef57183066d6cac0cabb85c6
 2023-07-18,12,Seven (feat. Latto) (Instrumental),Jung Kook & Latto & BTS,79,184240,single,3,2023-07-14,False,https://i.scdn.co/image/ab67616d0000b273bf5cce5a0e1ed03a626bdd74
 2023-07-18,13,Take Two,BTS,95,229953,single,1,2023-06-09,False,https://i.scdn.co/image/ab67616d0000b2738a701e76e8845928f6cd81c8
@@ -3107,7 +3107,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-07-19,6,"Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",Fast & Furious: The Fast Saga & Jimin & BTS,89,175802,single,2,2023-05-17,False,https://i.scdn.co/image/ab67616d0000b273445afb6341d2685b959251cc
 2023-07-19,7,Set Me Free Pt.2,Jimin,85,200929,single,1,2023-03-17,True,https://i.scdn.co/image/ab67616d0000b2734f4ec2c2a865569bd4a067a4
 2023-07-19,8,Still With You,Jung Kook,91,239905,single,1,2020-06-05,False,https://i.scdn.co/image/ab67616d0000b273a7f42c375578df426b37638d
-2023-07-19,9,"Steal The Show - From ""Elemental""",Lauv,78,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-07-19,9,"Steal The Show - From 'Elemental',Lauv,78,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-07-19,10,Seven (feat. Latto) (Instrumental),Jung Kook & Latto,80,184240,single,3,2023-07-14,False,https://i.scdn.co/image/ab67616d0000b273bf5cce5a0e1ed03a626bdd74
 2023-07-19,11,Left and Right (Feat. Jung Kook of BTS),Charlie Puth,88,154486,album,12,2022-10-06,False,https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49
 2023-07-19,12,Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack],Jung Kook & BTS,88,201391,single,1,2022-11-20,False,https://i.scdn.co/image/ab67616d0000b273ef57183066d6cac0cabb85c6
@@ -3157,7 +3157,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-07-20,6,New Jeans,NewJeans,88,108986,single,2,2023-07-07,False,https://i.scdn.co/image/ab67616d0000b2733d98a0ae7c78a3a9babaf8af
 2023-07-20,7,Set Me Free Pt.2,Jimin,85,200929,single,1,2023-03-17,True,https://i.scdn.co/image/ab67616d0000b2734f4ec2c2a865569bd4a067a4
 2023-07-20,8,Still With You,Jung Kook,91,239905,single,1,2020-06-05,False,https://i.scdn.co/image/ab67616d0000b273a7f42c375578df426b37638d
-2023-07-20,9,"Steal The Show - From ""Elemental""",Lauv,78,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-07-20,9,"Steal The Show - From 'Elemental',Lauv,78,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-07-20,10,Face-off,Jimin,82,229627,single,6,2023-03-24,True,https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d
 2023-07-20,11,Seven (feat. Latto) (Instrumental),Jung Kook & Latto,80,184240,single,3,2023-07-14,False,https://i.scdn.co/image/ab67616d0000b273bf5cce5a0e1ed03a626bdd74
 2023-07-20,12,Take Two,BTS,95,229953,single,1,2023-06-09,False,https://i.scdn.co/image/ab67616d0000b2738a701e76e8845928f6cd81c8
@@ -3208,7 +3208,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-07-21,7,Set Me Free Pt.2,Jimin,85,200929,single,1,2023-03-17,True,https://i.scdn.co/image/ab67616d0000b2734f4ec2c2a865569bd4a067a4
 2023-07-21,8,Still With You,Jung Kook,91,239905,single,1,2020-06-05,False,https://i.scdn.co/image/ab67616d0000b273a7f42c375578df426b37638d
 2023-07-21,9,Seven (feat. Latto) (Instrumental),Jung Kook & Latto,80,184240,single,3,2023-07-14,False,https://i.scdn.co/image/ab67616d0000b273bf5cce5a0e1ed03a626bdd74
-2023-07-21,10,"Steal The Show - From ""Elemental""",Lauv,78,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-07-21,10,"Steal The Show - From 'Elemental',Lauv,78,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-07-21,11,Face-off,Jimin,82,229627,single,6,2023-03-24,True,https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d
 2023-07-21,12,OMG,NewJeans,92,212253,single,2,2023-01-02,False,https://i.scdn.co/image/ab67616d0000b273d70036292d54f29e8b68ec01
 2023-07-21,13,Take Two,BTS,95,229953,single,1,2023-06-09,False,https://i.scdn.co/image/ab67616d0000b2738a701e76e8845928f6cd81c8
@@ -3258,7 +3258,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-07-22,7,"Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",Fast & Furious: The Fast Saga & Jimin & BTS,88,175802,single,2,2023-05-17,False,https://i.scdn.co/image/ab67616d0000b273445afb6341d2685b959251cc
 2023-07-22,8,Still With You,Jung Kook,91,239905,single,1,2020-06-05,False,https://i.scdn.co/image/ab67616d0000b273a7f42c375578df426b37638d
 2023-07-22,9,Seven (feat. Latto) (Instrumental),Jung Kook & Latto,81,184240,single,3,2023-07-14,False,https://i.scdn.co/image/ab67616d0000b273bf5cce5a0e1ed03a626bdd74
-2023-07-22,10,"Steal The Show - From ""Elemental""",Lauv,78,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-07-22,10,"Steal The Show - From 'Elemental',Lauv,78,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-07-22,11,OMG,NewJeans,92,212253,single,2,2023-01-02,False,https://i.scdn.co/image/ab67616d0000b273d70036292d54f29e8b68ec01
 2023-07-22,12,Seven (feat. Latto) (Summer Mix),Jung Kook & Latto,76,201706,single,5,2023-07-17,False,https://i.scdn.co/image/ab67616d0000b273570b23ab8c94e857562ed8bc
 2023-07-22,13,Face-off,Jimin,82,229627,single,6,2023-03-24,True,https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d
@@ -3312,7 +3312,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-07-23,11,Set Me Free Pt.2,Jimin,85,200929,single,1,2023-03-17,True,https://i.scdn.co/image/ab67616d0000b2734f4ec2c2a865569bd4a067a4
 2023-07-23,12,Still With You,Jung Kook,91,239905,single,1,2020-06-05,False,https://i.scdn.co/image/ab67616d0000b273a7f42c375578df426b37638d
 2023-07-23,13,OMG,NewJeans,92,212253,single,2,2023-01-02,False,https://i.scdn.co/image/ab67616d0000b273d70036292d54f29e8b68ec01
-2023-07-23,14,"Steal The Show - From ""Elemental""",Lauv,78,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-07-23,14,"Steal The Show - From 'Elemental',Lauv,78,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-07-23,15,Ditto,NewJeans,89,185506,single,1,2022-12-19,False,https://i.scdn.co/image/ab67616d0000b273edf5b257be1d6593e81bb45f
 2023-07-23,16,Take Two,BTS,94,229953,single,1,2023-06-09,False,https://i.scdn.co/image/ab67616d0000b2738a701e76e8845928f6cd81c8
 2023-07-23,17,Face-off,Jimin,82,229627,single,6,2023-03-24,True,https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d
@@ -3362,7 +3362,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-07-24,11,Set Me Free Pt.2,Jimin,85,200929,single,1,2023-03-17,True,https://i.scdn.co/image/ab67616d0000b2734f4ec2c2a865569bd4a067a4
 2023-07-24,12,Still With You,Jung Kook,91,239905,single,1,2020-06-05,False,https://i.scdn.co/image/ab67616d0000b273a7f42c375578df426b37638d
 2023-07-24,13,OMG,NewJeans,92,212253,single,2,2023-01-02,False,https://i.scdn.co/image/ab67616d0000b273d70036292d54f29e8b68ec01
-2023-07-24,14,"Steal The Show - From ""Elemental""",Lauv,78,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-07-24,14,"Steal The Show - From 'Elemental',Lauv,78,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-07-24,15,Ditto,NewJeans,89,185506,single,1,2022-12-19,False,https://i.scdn.co/image/ab67616d0000b273edf5b257be1d6593e81bb45f
 2023-07-24,16,Take Two,BTS,94,229953,single,1,2023-06-09,False,https://i.scdn.co/image/ab67616d0000b2738a701e76e8845928f6cd81c8
 2023-07-24,17,Face-off,Jimin,82,229627,single,6,2023-03-24,True,https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d
@@ -3411,7 +3411,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-07-25,10,Set Me Free Pt.2,Jimin,85,200929,single,1,2023-03-17,True,https://i.scdn.co/image/ab67616d0000b2734f4ec2c2a865569bd4a067a4
 2023-07-25,11,"Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",Fast & Furious: The Fast Saga & Jimin & BTS,88,175802,single,2,2023-05-17,False,https://i.scdn.co/image/ab67616d0000b273445afb6341d2685b959251cc
 2023-07-25,12,Still With You,Jung Kook,91,239905,single,1,2020-06-05,False,https://i.scdn.co/image/ab67616d0000b273a7f42c375578df426b37638d
-2023-07-25,13,"Steal The Show - From ""Elemental""",Lauv,78,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-07-25,13,"Steal The Show - From 'Elemental',Lauv,78,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-07-25,14,Take Two,BTS,94,229953,single,1,2023-06-09,False,https://i.scdn.co/image/ab67616d0000b2738a701e76e8845928f6cd81c8
 2023-07-25,15,OMG,NewJeans,91,212253,single,2,2023-01-02,False,https://i.scdn.co/image/ab67616d0000b273d70036292d54f29e8b68ec01
 2023-07-25,16,Face-off,Jimin,82,229627,single,6,2023-03-24,True,https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d
@@ -3461,7 +3461,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-07-26,10,Set Me Free Pt.2,Jimin,85,200929,single,1,2023-03-17,True,https://i.scdn.co/image/ab67616d0000b2734f4ec2c2a865569bd4a067a4
 2023-07-26,11,"Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",Fast & Furious: The Fast Saga & Jimin & BTS,88,175802,single,2,2023-05-17,False,https://i.scdn.co/image/ab67616d0000b273445afb6341d2685b959251cc
 2023-07-26,12,Still With You,Jung Kook,91,239905,single,1,2020-06-05,False,https://i.scdn.co/image/ab67616d0000b273a7f42c375578df426b37638d
-2023-07-26,13,"Steal The Show - From ""Elemental""",Lauv,79,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-07-26,13,"Steal The Show - From 'Elemental',Lauv,79,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-07-26,14,Face-off,Jimin,82,229627,single,6,2023-03-24,True,https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d
 2023-07-26,15,OMG,NewJeans,91,212253,single,2,2023-01-02,False,https://i.scdn.co/image/ab67616d0000b273d70036292d54f29e8b68ec01
 2023-07-26,16,Alone,Jimin,81,211250,single,6,2023-03-24,False,https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d
@@ -3511,7 +3511,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-07-27,10,Set Me Free Pt.2,Jimin,84,200929,single,1,2023-03-17,True,https://i.scdn.co/image/ab67616d0000b2734f4ec2c2a865569bd4a067a4
 2023-07-27,11,"Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",Fast & Furious: The Fast Saga & Jimin & BTS,88,175802,single,2,2023-05-17,False,https://i.scdn.co/image/ab67616d0000b273445afb6341d2685b959251cc
 2023-07-27,12,Still With You,Jung Kook,90,239905,single,1,2020-06-05,False,https://i.scdn.co/image/ab67616d0000b273a7f42c375578df426b37638d
-2023-07-27,13,"Steal The Show - From ""Elemental""",Lauv,79,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-07-27,13,"Steal The Show - From 'Elemental',Lauv,79,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-07-27,14,OMG,NewJeans,91,212253,single,2,2023-01-02,False,https://i.scdn.co/image/ab67616d0000b273d70036292d54f29e8b68ec01
 2023-07-27,15,Ditto,NewJeans,89,185506,single,1,2022-12-19,False,https://i.scdn.co/image/ab67616d0000b273edf5b257be1d6593e81bb45f
 2023-07-27,16,Seven (feat. Latto) (Instrumental),Jung Kook & Latto,81,184240,single,3,2023-07-14,False,https://i.scdn.co/image/ab67616d0000b273bf5cce5a0e1ed03a626bdd74
@@ -3561,7 +3561,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-07-28,10,Set Me Free Pt.2,Jimin,84,200929,single,1,2023-03-17,True,https://i.scdn.co/image/ab67616d0000b2734f4ec2c2a865569bd4a067a4
 2023-07-28,11,"Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",Fast & Furious: The Fast Saga & Jimin & BTS,87,175802,single,2,2023-05-17,False,https://i.scdn.co/image/ab67616d0000b273445afb6341d2685b959251cc
 2023-07-28,12,Still With You,Jung Kook,90,239905,single,1,2020-06-05,False,https://i.scdn.co/image/ab67616d0000b273a7f42c375578df426b37638d
-2023-07-28,13,"Steal The Show - From ""Elemental""",Lauv,79,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-07-28,13,"Steal The Show - From 'Elemental',Lauv,79,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-07-28,14,OMG,NewJeans,91,212253,single,2,2023-01-02,False,https://i.scdn.co/image/ab67616d0000b273d70036292d54f29e8b68ec01
 2023-07-28,15,Ditto,NewJeans,89,185506,single,1,2022-12-19,False,https://i.scdn.co/image/ab67616d0000b273edf5b257be1d6593e81bb45f
 2023-07-28,16,Seven (feat. Latto) (Instrumental),Jung Kook & Latto,81,184240,single,3,2023-07-14,False,https://i.scdn.co/image/ab67616d0000b273bf5cce5a0e1ed03a626bdd74
@@ -3615,7 +3615,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-07-29,14,Ditto,NewJeans,89,185506,single,1,2022-12-19,False,https://i.scdn.co/image/ab67616d0000b273edf5b257be1d6593e81bb45f
 2023-07-29,15,Still With You,Jung Kook,90,239905,single,1,2020-06-05,False,https://i.scdn.co/image/ab67616d0000b273a7f42c375578df426b37638d
 2023-07-29,16,Hype Boy,NewJeans,88,179026,single,4,2022-08-01,False,https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209
-2023-07-29,17,"Steal The Show - From ""Elemental""",Lauv,79,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-07-29,17,"Steal The Show - From 'Elemental',Lauv,79,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-07-29,18,I AM,IVE,88,183853,album,11,2023-04-10,False,https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8
 2023-07-29,19,"Eve, Psyche & The Bluebeard’s wife",LE SSERAFIM,86,185538,album,13,2023-05-01,False,https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7
 2023-07-29,20,Queencard,(G)I-DLE,90,161240,single,6,2023-05-15,False,https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616
@@ -3665,7 +3665,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-07-30,14,Still With You,Jung Kook,90,239905,single,1,2020-06-05,False,https://i.scdn.co/image/ab67616d0000b273a7f42c375578df426b37638d
 2023-07-30,15,Hype Boy,NewJeans,87,179026,single,4,2022-08-01,False,https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209
 2023-07-30,16,I AM,IVE,88,183853,album,11,2023-04-10,False,https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8
-2023-07-30,17,"Steal The Show - From ""Elemental""",Lauv,78,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-07-30,17,"Steal The Show - From 'Elemental',Lauv,78,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-07-30,18,Queencard,(G)I-DLE,90,161240,single,6,2023-05-15,False,https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616
 2023-07-30,19,"Eve, Psyche & The Bluebeard’s wife",LE SSERAFIM,86,185538,album,13,2023-05-01,False,https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7
 2023-07-30,20,People Pt.2 (feat. IU),Agust D,77,213995,album,10,2023-04-21,False,https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e
@@ -3712,7 +3712,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-07-31,11,"Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",Fast & Furious: The Fast Saga & Jimin & BTS,87,175802,single,2,2023-05-17,False,https://i.scdn.co/image/ab67616d0000b273445afb6341d2685b959251cc
 2023-07-31,12,Ditto,NewJeans,89,185506,single,1,2022-12-19,False,https://i.scdn.co/image/ab67616d0000b273edf5b257be1d6593e81bb45f
 2023-07-31,13,OMG,NewJeans,91,212253,single,2,2023-01-02,False,https://i.scdn.co/image/ab67616d0000b273d70036292d54f29e8b68ec01
-2023-07-31,14,"Steal The Show - From ""Elemental""",Lauv,78,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-07-31,14,"Steal The Show - From 'Elemental',Lauv,78,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-07-31,15,People Pt.2 (feat. IU),Agust D,76,213995,album,10,2023-04-21,False,https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e
 2023-07-31,16,I AM,IVE,87,183853,album,11,2023-04-10,False,https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8
 2023-07-31,17,Still With You,Jung Kook,90,239905,single,1,2020-06-05,False,https://i.scdn.co/image/ab67616d0000b273a7f42c375578df426b37638d
@@ -3762,7 +3762,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-08-01,11,"Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",Fast & Furious: The Fast Saga & Jimin & BTS,86,175802,single,2,2023-05-17,False,https://i.scdn.co/image/ab67616d0000b273445afb6341d2685b959251cc
 2023-08-01,12,Ditto,NewJeans,89,185506,single,1,2022-12-19,False,https://i.scdn.co/image/ab67616d0000b273edf5b257be1d6593e81bb45f
 2023-08-01,13,OMG,NewJeans,91,212253,single,2,2023-01-02,False,https://i.scdn.co/image/ab67616d0000b273d70036292d54f29e8b68ec01
-2023-08-01,14,"Steal The Show - From ""Elemental""",Lauv,78,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-08-01,14,"Steal The Show - From 'Elemental',Lauv,78,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-08-01,15,People Pt.2 (feat. IU),Agust D,76,213995,album,10,2023-04-21,False,https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e
 2023-08-01,16,I AM,IVE,87,183853,album,11,2023-04-10,False,https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8
 2023-08-01,17,Still With You,Jung Kook,90,239905,single,1,2020-06-05,False,https://i.scdn.co/image/ab67616d0000b273a7f42c375578df426b37638d
@@ -3813,7 +3813,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-08-02,12,Ditto,NewJeans,88,185506,single,1,2022-12-19,False,https://i.scdn.co/image/ab67616d0000b273edf5b257be1d6593e81bb45f
 2023-08-02,13,Still With You,Jung Kook,90,239905,single,1,2020-06-05,False,https://i.scdn.co/image/ab67616d0000b273a7f42c375578df426b37638d
 2023-08-02,14,OMG,NewJeans,91,212253,single,2,2023-01-02,False,https://i.scdn.co/image/ab67616d0000b273d70036292d54f29e8b68ec01
-2023-08-02,15,"Steal The Show - From ""Elemental""",Lauv,78,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-08-02,15,"Steal The Show - From 'Elemental',Lauv,78,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-08-02,16,I AM,IVE,87,183853,album,11,2023-04-10,False,https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8
 2023-08-02,17,"Eve, Psyche & The Bluebeard’s wife",LE SSERAFIM,86,185538,album,13,2023-05-01,False,https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7
 2023-08-02,18,Queencard,(G)I-DLE,89,161240,single,6,2023-05-15,False,https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616
@@ -3864,7 +3864,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-08-03,13,Ditto,NewJeans,88,185506,single,1,2022-12-19,False,https://i.scdn.co/image/ab67616d0000b273edf5b257be1d6593e81bb45f
 2023-08-03,14,Still With You,Jung Kook,89,239905,single,1,2020-06-05,False,https://i.scdn.co/image/ab67616d0000b273a7f42c375578df426b37638d
 2023-08-03,15,I AM,IVE,87,183853,album,11,2023-04-10,False,https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8
-2023-08-03,16,"Steal The Show - From ""Elemental""",Lauv,78,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-08-03,16,"Steal The Show - From 'Elemental',Lauv,78,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-08-03,17,People Pt.2 (feat. IU),Agust D,76,213995,album,10,2023-04-21,False,https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e
 2023-08-03,18,"Eve, Psyche & The Bluebeard’s wife",LE SSERAFIM,85,185538,album,13,2023-05-01,False,https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7
 2023-08-03,19,Queencard,(G)I-DLE,89,161240,single,6,2023-05-15,False,https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616
@@ -3917,7 +3917,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-08-04,16,I AM,IVE,87,183853,album,11,2023-04-10,False,https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8
 2023-08-04,17,Alone,Jimin,80,211250,single,6,2023-03-24,False,https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d
 2023-08-04,18,People Pt.2 (feat. IU),Agust D,76,213995,album,10,2023-04-21,False,https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e
-2023-08-04,19,"Steal The Show - From ""Elemental""",Lauv,78,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-08-04,19,"Steal The Show - From 'Elemental',Lauv,78,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-08-04,20,"Eve, Psyche & The Bluebeard’s wife",LE SSERAFIM,85,185538,album,13,2023-05-01,False,https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7
 2023-08-04,21,Queencard,(G)I-DLE,89,161240,single,6,2023-05-15,False,https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616
 2023-08-04,22,Hype Boy,NewJeans,87,179026,single,4,2022-08-01,False,https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209
@@ -3967,7 +3967,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-08-05,16,Still With You,Jung Kook,89,239905,single,1,2020-06-05,False,https://i.scdn.co/image/ab67616d0000b273a7f42c375578df426b37638d
 2023-08-05,17,I AM,IVE,87,183853,album,11,2023-04-10,False,https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8
 2023-08-05,18,Hype Boy,NewJeans,87,179026,single,4,2022-08-01,False,https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209
-2023-08-05,19,"Steal The Show - From ""Elemental""",Lauv,78,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-08-05,19,"Steal The Show - From 'Elemental',Lauv,78,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-08-05,20,"Eve, Psyche & The Bluebeard’s wife",LE SSERAFIM,85,185538,album,13,2023-05-01,False,https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7
 2023-08-05,21,Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack],Jung Kook & BTS,86,201391,single,1,2022-11-20,False,https://i.scdn.co/image/ab67616d0000b273ef57183066d6cac0cabb85c6
 2023-08-05,22,Queencard,(G)I-DLE,89,161240,single,6,2023-05-15,False,https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616
@@ -4018,7 +4018,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-08-06,17,Queencard,(G)I-DLE,89,161240,single,6,2023-05-15,False,https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616
 2023-08-06,18,Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack],Jung Kook & BTS,85,201391,single,1,2022-11-20,False,https://i.scdn.co/image/ab67616d0000b273ef57183066d6cac0cabb85c6
 2023-08-06,19,"Eve, Psyche & The Bluebeard’s wife",LE SSERAFIM,85,185538,album,13,2023-05-01,False,https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7
-2023-08-06,20,"Steal The Show - From ""Elemental""",Lauv,78,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-08-06,20,"Steal The Show - From 'Elemental',Lauv,78,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-08-06,21,Left and Right (Feat. Jung Kook of BTS),Charlie Puth,86,154486,album,12,2022-10-06,False,https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49
 2023-08-06,22,Spicy,aespa,83,197040,single,6,2023-05-08,False,https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce
 2023-08-06,23,Grain of Sand,Lim Young Woong,67,220309,single,1,2023-06-05,False,https://i.scdn.co/image/ab67616d0000b273111a6e9b713b646443c5c222
@@ -4069,7 +4069,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-08-07,18,Hype Boy,NewJeans,87,179026,single,4,2022-08-01,False,https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209
 2023-08-07,19,Queencard,(G)I-DLE,89,161240,single,6,2023-05-15,False,https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616
 2023-08-07,20,Left and Right (Feat. Jung Kook of BTS),Charlie Puth,86,154486,album,12,2022-10-06,False,https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49
-2023-08-07,21,"Steal The Show - From ""Elemental""",Lauv,78,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-08-07,21,"Steal The Show - From 'Elemental',Lauv,78,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-08-07,22,Face-off,Jimin,81,229627,single,6,2023-03-24,True,https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d
 2023-08-07,23,"Eve, Psyche & The Bluebeard’s wife",LE SSERAFIM,85,185538,album,13,2023-05-01,False,https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7
 2023-08-07,24,London Boy,Lim Young Woong,66,244500,single,2,2022-11-15,False,https://i.scdn.co/image/ab67616d0000b2732d2009b6cad53ddacad11334
@@ -4119,7 +4119,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-08-08,18,Hype Boy,NewJeans,86,179026,single,4,2022-08-01,False,https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209
 2023-08-08,19,Queencard,(G)I-DLE,89,161240,single,6,2023-05-15,False,https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616
 2023-08-08,20,Left and Right (Feat. Jung Kook of BTS),Charlie Puth,86,154486,album,12,2022-10-06,False,https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49
-2023-08-08,21,"Steal The Show - From ""Elemental""",Lauv,78,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-08-08,21,"Steal The Show - From 'Elemental',Lauv,78,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-08-08,22,Face-off,Jimin,81,229627,single,6,2023-03-24,True,https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d
 2023-08-08,23,"Eve, Psyche & The Bluebeard’s wife",LE SSERAFIM,85,185538,album,13,2023-05-01,False,https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7
 2023-08-08,24,London Boy,Lim Young Woong,66,244500,single,2,2022-11-15,False,https://i.scdn.co/image/ab67616d0000b2732d2009b6cad53ddacad11334
@@ -4170,7 +4170,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-08-09,19,Hype Boy,NewJeans,86,179026,single,4,2022-08-01,False,https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209
 2023-08-09,20,Grain of Sand,Lim Young Woong,67,220309,single,1,2023-06-05,False,https://i.scdn.co/image/ab67616d0000b273111a6e9b713b646443c5c222
 2023-08-09,21,People Pt.2 (feat. IU),Agust D,76,213995,album,10,2023-04-21,False,https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e
-2023-08-09,22,"Steal The Show - From ""Elemental""",Lauv,78,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-08-09,22,"Steal The Show - From 'Elemental',Lauv,78,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-08-09,23,Queencard,(G)I-DLE,89,161240,single,6,2023-05-15,False,https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616
 2023-08-09,24,London Boy,Lim Young Woong,66,244500,single,2,2022-11-15,False,https://i.scdn.co/image/ab67616d0000b2732d2009b6cad53ddacad11334
 2023-08-09,25,"Eve, Psyche & The Bluebeard’s wife",LE SSERAFIM,85,185538,album,13,2023-05-01,False,https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7
@@ -4220,7 +4220,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-08-10,19,I AM,IVE,86,183853,album,11,2023-04-10,False,https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8
 2023-08-10,20,Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack],Jung Kook & BTS,85,201391,single,1,2022-11-20,False,https://i.scdn.co/image/ab67616d0000b273ef57183066d6cac0cabb85c6
 2023-08-10,21,Hype Boy,NewJeans,86,179026,single,4,2022-08-01,False,https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209
-2023-08-10,22,"Steal The Show - From ""Elemental""",Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-08-10,22,"Steal The Show - From 'Elemental',Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-08-10,23,Grain of Sand,Lim Young Woong,67,220309,single,1,2023-06-05,False,https://i.scdn.co/image/ab67616d0000b273111a6e9b713b646443c5c222
 2023-08-10,24,Queencard,(G)I-DLE,89,161240,single,6,2023-05-15,False,https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616
 2023-08-10,25,Left and Right (Feat. Jung Kook of BTS),Charlie Puth,86,154486,album,12,2022-10-06,False,https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49
@@ -4273,7 +4273,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-08-11,22,Left and Right (Feat. Jung Kook of BTS),Charlie Puth,86,154486,album,12,2022-10-06,False,https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49
 2023-08-11,23,Hype Boy,NewJeans,86,179026,single,4,2022-08-01,False,https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209
 2023-08-11,24,London Boy,Lim Young Woong,66,244500,single,2,2022-11-15,False,https://i.scdn.co/image/ab67616d0000b2732d2009b6cad53ddacad11334
-2023-08-11,25,"Steal The Show - From ""Elemental""",Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-08-11,25,"Steal The Show - From 'Elemental',Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-08-11,26,Queencard,(G)I-DLE,89,161240,single,6,2023-05-15,False,https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616
 2023-08-11,27,Interlude : Dive,Jimin,77,130996,single,6,2023-03-24,False,https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d
 2023-08-11,28,Take Two,BTS,91,229953,single,1,2023-06-09,False,https://i.scdn.co/image/ab67616d0000b2738a701e76e8845928f6cd81c8
@@ -4324,7 +4324,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-08-12,23,Take Two,BTS,91,229953,single,1,2023-06-09,False,https://i.scdn.co/image/ab67616d0000b2738a701e76e8845928f6cd81c8
 2023-08-12,24,I AM,IVE,86,183853,album,11,2023-04-10,False,https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8
 2023-08-12,25,Hype Boy,NewJeans,86,179026,single,4,2022-08-01,False,https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209
-2023-08-12,26,"Steal The Show - From ""Elemental""",Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-08-12,26,"Steal The Show - From 'Elemental',Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-08-12,27,Interlude : Dive,Jimin,77,130996,single,6,2023-03-24,False,https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d
 2023-08-12,28,Polaroid,Lim Young Woong,64,206400,single,2,2022-11-15,False,https://i.scdn.co/image/ab67616d0000b2732d2009b6cad53ddacad11334
 2023-08-12,29,Haegeum,Agust D,86,168926,album,10,2023-04-21,False,https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e
@@ -4379,7 +4379,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-08-13,28,Queencard,(G)I-DLE,89,161240,single,6,2023-05-15,False,https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616
 2023-08-13,29,London Boy,Lim Young Woong,66,244500,single,2,2022-11-15,False,https://i.scdn.co/image/ab67616d0000b2732d2009b6cad53ddacad11334
 2023-08-13,30,"Eve, Psyche & The Bluebeard’s wife",LE SSERAFIM,85,185538,album,13,2023-05-01,False,https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7
-2023-08-13,31,"Steal The Show - From ""Elemental""",Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-08-13,31,"Steal The Show - From 'Elemental',Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-08-13,32,Christmas Tree,V,84,209946,single,2,2021-12-24,False,https://i.scdn.co/image/ab67616d0000b2738764ebc69bd91a01cc3948a2
 2023-08-13,33,Spicy,aespa,82,197040,single,6,2023-05-08,False,https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce
 2023-08-13,34,Polaroid,Lim Young Woong,64,206400,single,2,2022-11-15,False,https://i.scdn.co/image/ab67616d0000b2732d2009b6cad53ddacad11334
@@ -4426,7 +4426,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-08-14,25,Hype Boy,NewJeans,86,179026,single,4,2022-08-01,False,https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209
 2023-08-14,26,Take Two,BTS,90,229953,single,1,2023-06-09,False,https://i.scdn.co/image/ab67616d0000b2738a701e76e8845928f6cd81c8
 2023-08-14,27,Get Up,NewJeans,87,36226,single,6,2023-07-21,False,https://i.scdn.co/image/ab67616d0000b2730744690248ef3ba7b776ea7b
-2023-08-14,28,"Steal The Show - From ""Elemental""",Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-08-14,28,"Steal The Show - From 'Elemental',Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-08-14,29,London Boy,Lim Young Woong,66,244500,single,2,2022-11-15,False,https://i.scdn.co/image/ab67616d0000b2732d2009b6cad53ddacad11334
 2023-08-14,30,Queencard,(G)I-DLE,89,161240,single,6,2023-05-15,False,https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616
 2023-08-14,31,Christmas Tree,V,84,209946,single,2,2021-12-24,False,https://i.scdn.co/image/ab67616d0000b2738764ebc69bd91a01cc3948a2
@@ -4476,7 +4476,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-08-15,25,Hype Boy,NewJeans,86,179026,single,4,2022-08-01,False,https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209
 2023-08-15,26,Take Two,BTS,90,229953,single,1,2023-06-09,False,https://i.scdn.co/image/ab67616d0000b2738a701e76e8845928f6cd81c8
 2023-08-15,27,Get Up,NewJeans,87,36226,single,6,2023-07-21,False,https://i.scdn.co/image/ab67616d0000b2730744690248ef3ba7b776ea7b
-2023-08-15,28,"Steal The Show - From ""Elemental""",Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-08-15,28,"Steal The Show - From 'Elemental',Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-08-15,29,London Boy,Lim Young Woong,66,244500,single,2,2022-11-15,False,https://i.scdn.co/image/ab67616d0000b2732d2009b6cad53ddacad11334
 2023-08-15,30,Queencard,(G)I-DLE,89,161240,single,6,2023-05-15,False,https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616
 2023-08-15,31,Christmas Tree,V,84,209946,single,2,2021-12-24,False,https://i.scdn.co/image/ab67616d0000b2738764ebc69bd91a01cc3948a2
@@ -4528,7 +4528,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-08-16,27,Get Up,NewJeans,87,36226,single,6,2023-07-21,False,https://i.scdn.co/image/ab67616d0000b2730744690248ef3ba7b776ea7b
 2023-08-16,28,London Boy,Lim Young Woong,66,244500,single,2,2022-11-15,False,https://i.scdn.co/image/ab67616d0000b2732d2009b6cad53ddacad11334
 2023-08-16,29,Queencard,(G)I-DLE,89,161240,single,6,2023-05-15,False,https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616
-2023-08-16,30,"Steal The Show - From ""Elemental""",Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-08-16,30,"Steal The Show - From 'Elemental',Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-08-16,31,Spicy,aespa,82,197040,single,6,2023-05-08,False,https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce
 2023-08-16,32,"Eve, Psyche & The Bluebeard’s wife",LE SSERAFIM,85,185538,album,13,2023-05-01,False,https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7
 2023-08-16,33,Christmas Tree,V,84,209946,single,2,2021-12-24,False,https://i.scdn.co/image/ab67616d0000b2738764ebc69bd91a01cc3948a2
@@ -4577,7 +4577,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-08-17,26,Get Up,NewJeans,87,36226,single,6,2023-07-21,False,https://i.scdn.co/image/ab67616d0000b2730744690248ef3ba7b776ea7b
 2023-08-17,27,Queencard,(G)I-DLE,88,161240,single,6,2023-05-15,False,https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616
 2023-08-17,28,Take Two,BTS,90,229953,single,1,2023-06-09,False,https://i.scdn.co/image/ab67616d0000b2738a701e76e8845928f6cd81c8
-2023-08-17,29,"Steal The Show - From ""Elemental""",Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-08-17,29,"Steal The Show - From 'Elemental',Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-08-17,30,Spicy,aespa,82,197040,single,6,2023-05-08,False,https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce
 2023-08-17,31,London Boy,Lim Young Woong,66,244500,single,2,2022-11-15,False,https://i.scdn.co/image/ab67616d0000b2732d2009b6cad53ddacad11334
 2023-08-17,32,"Eve, Psyche & The Bluebeard’s wife",LE SSERAFIM,84,185538,album,13,2023-05-01,False,https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7
@@ -4629,7 +4629,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-08-18,28,Spicy,aespa,82,197040,single,6,2023-05-08,False,https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce
 2023-08-18,29,Take Two,BTS,90,229953,single,1,2023-06-09,False,https://i.scdn.co/image/ab67616d0000b2738a701e76e8845928f6cd81c8
 2023-08-18,30,Queencard,(G)I-DLE,88,161240,single,6,2023-05-15,False,https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616
-2023-08-18,31,"Steal The Show - From ""Elemental""",Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-08-18,31,"Steal The Show - From 'Elemental',Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-08-18,32,"Eve, Psyche & The Bluebeard’s wife",LE SSERAFIM,84,185538,album,13,2023-05-01,False,https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7
 2023-08-18,33,Christmas Tree,V,84,209946,single,2,2021-12-24,False,https://i.scdn.co/image/ab67616d0000b2738764ebc69bd91a01cc3948a2
 2023-08-18,34,Polaroid,Lim Young Woong,64,206400,single,2,2022-11-15,False,https://i.scdn.co/image/ab67616d0000b2732d2009b6cad53ddacad11334
@@ -4680,7 +4680,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-08-19,29,Get Up,NewJeans,86,36226,single,6,2023-07-21,False,https://i.scdn.co/image/ab67616d0000b2730744690248ef3ba7b776ea7b
 2023-08-19,30,Take Two,BTS,90,229953,single,1,2023-06-09,False,https://i.scdn.co/image/ab67616d0000b2738a701e76e8845928f6cd81c8
 2023-08-19,31,"Eve, Psyche & The Bluebeard’s wife",LE SSERAFIM,84,185538,album,13,2023-05-01,False,https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7
-2023-08-19,32,"Steal The Show - From ""Elemental""",Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-08-19,32,"Steal The Show - From 'Elemental',Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-08-19,33,Polaroid,Lim Young Woong,64,206400,single,2,2022-11-15,False,https://i.scdn.co/image/ab67616d0000b2732d2009b6cad53ddacad11334
 2023-08-19,34,Christmas Tree,V,84,209946,single,2,2021-12-24,False,https://i.scdn.co/image/ab67616d0000b2738764ebc69bd91a01cc3948a2
 2023-08-19,35,Cruel Summer,Taylor Swift,99,178426,album,18,2019-08-23,False,https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647
@@ -4730,7 +4730,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-08-20,29,Queencard,(G)I-DLE,88,161240,single,6,2023-05-15,False,https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616
 2023-08-20,30,Spicy,aespa,82,197040,single,6,2023-05-08,False,https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce
 2023-08-20,31,Polaroid,Lim Young Woong,64,206400,single,2,2022-11-15,False,https://i.scdn.co/image/ab67616d0000b2732d2009b6cad53ddacad11334
-2023-08-20,32,"Steal The Show - From ""Elemental""",Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-08-20,32,"Steal The Show - From 'Elemental',Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-08-20,33,"Eve, Psyche & The Bluebeard’s wife",LE SSERAFIM,84,185538,album,13,2023-05-01,False,https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7
 2023-08-20,34,Get Up,NewJeans,86,36226,single,6,2023-07-21,False,https://i.scdn.co/image/ab67616d0000b2730744690248ef3ba7b776ea7b
 2023-08-20,35,Better Things,aespa,67,203216,single,1,2023-08-18,False,https://i.scdn.co/image/ab67616d0000b27340157e24ffc34938be2b5341
@@ -4774,7 +4774,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-08-21,23,I AM,IVE,85,183853,album,11,2023-04-10,False,https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8
 2023-08-21,24,Hype Boy,NewJeans,86,179026,single,4,2022-08-01,False,https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209
 2023-08-21,25,London Boy,Lim Young Woong,66,244500,single,2,2022-11-15,False,https://i.scdn.co/image/ab67616d0000b2732d2009b6cad53ddacad11334
-2023-08-21,26,"Steal The Show - From ""Elemental""",Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-08-21,26,"Steal The Show - From 'Elemental',Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-08-21,27,ASAP,NewJeans,86,134386,single,6,2023-07-21,False,https://i.scdn.co/image/ab67616d0000b2730744690248ef3ba7b776ea7b
 2023-08-21,28,Take Two,BTS,89,229953,single,1,2023-06-09,False,https://i.scdn.co/image/ab67616d0000b2738a701e76e8845928f6cd81c8
 2023-08-21,29,Christmas Tree,V,84,209946,single,2,2021-12-24,False,https://i.scdn.co/image/ab67616d0000b2738764ebc69bd91a01cc3948a2
@@ -4831,7 +4831,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-08-22,30,Better Things,aespa,74,203216,single,1,2023-08-18,False,https://i.scdn.co/image/ab67616d0000b27340157e24ffc34938be2b5341
 2023-08-22,31,Spicy,aespa,82,197040,single,6,2023-05-08,False,https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce
 2023-08-22,32,Polaroid,Lim Young Woong,64,206400,single,2,2022-11-15,False,https://i.scdn.co/image/ab67616d0000b2732d2009b6cad53ddacad11334
-2023-08-22,33,"Steal The Show - From ""Elemental""",Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-08-22,33,"Steal The Show - From 'Elemental',Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-08-22,34,"Eve, Psyche & The Bluebeard’s wife",LE SSERAFIM,84,185538,album,13,2023-05-01,False,https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7
 2023-08-22,35,Get Up,NewJeans,86,36226,single,6,2023-07-21,False,https://i.scdn.co/image/ab67616d0000b2730744690248ef3ba7b776ea7b
 2023-08-22,36,Let's Say Goodbye,Parc Jae Jung,55,243853,album,10,2023-04-20,False,https://i.scdn.co/image/ab67616d0000b273473a5032790129fd7421c80e
@@ -4884,7 +4884,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-08-23,33,Better Things,aespa,75,203216,single,1,2023-08-18,False,https://i.scdn.co/image/ab67616d0000b27340157e24ffc34938be2b5341
 2023-08-23,34,Spicy,aespa,82,197040,single,6,2023-05-08,False,https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce
 2023-08-23,35,Let's Say Goodbye,Parc Jae Jung,55,243853,album,10,2023-04-20,False,https://i.scdn.co/image/ab67616d0000b273473a5032790129fd7421c80e
-2023-08-23,36,"Steal The Show - From ""Elemental""",Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-08-23,36,"Steal The Show - From 'Elemental',Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-08-23,37,Get Up,NewJeans,86,36226,single,6,2023-07-21,False,https://i.scdn.co/image/ab67616d0000b2730744690248ef3ba7b776ea7b
 2023-08-23,38,"Eve, Psyche & The Bluebeard’s wife",LE SSERAFIM,84,185538,album,13,2023-05-01,False,https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7
 2023-08-23,39,If We Ever Meet Again,Lim Young Woong,60,274386,album,12,2022-05-02,False,https://i.scdn.co/image/ab67616d0000b2738f116e476da669a9a3e7dcaa
@@ -4929,7 +4929,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-08-24,28,Left and Right (Feat. Jung Kook of BTS),Charlie Puth,85,154486,album,12,2022-10-06,False,https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49
 2023-08-24,29,Love Lee,AKMU,59,179683,single,2,2023-08-21,False,https://i.scdn.co/image/ab67616d0000b273a75d7535b8657385f8232449
 2023-08-24,30,Spicy,aespa,82,197040,single,6,2023-05-08,False,https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce
-2023-08-24,31,"Steal The Show - From ""Elemental""",Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-08-24,31,"Steal The Show - From 'Elemental',Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-08-24,32,Let's Say Goodbye,Parc Jae Jung,55,243853,album,10,2023-04-20,False,https://i.scdn.co/image/ab67616d0000b273473a5032790129fd7421c80e
 2023-08-24,33,ASAP,NewJeans,86,134386,single,6,2023-07-21,False,https://i.scdn.co/image/ab67616d0000b2730744690248ef3ba7b776ea7b
 2023-08-24,34,Queencard,(G)I-DLE,88,161240,single,6,2023-05-15,False,https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616
@@ -4982,7 +4982,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-08-25,31,Spicy,aespa,81,197040,single,6,2023-05-08,False,https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce
 2023-08-25,32,Let's Say Goodbye,Parc Jae Jung,55,243853,album,10,2023-04-20,False,https://i.scdn.co/image/ab67616d0000b273473a5032790129fd7421c80e
 2023-08-25,33,Queencard,(G)I-DLE,88,161240,single,6,2023-05-15,False,https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616
-2023-08-25,34,"Steal The Show - From ""Elemental""",Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-08-25,34,"Steal The Show - From 'Elemental',Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-08-25,35,If We Ever Meet Again,Lim Young Woong,60,274386,album,12,2022-05-02,False,https://i.scdn.co/image/ab67616d0000b2738f116e476da669a9a3e7dcaa
 2023-08-25,36,"Eve, Psyche & The Bluebeard’s wife",LE SSERAFIM,84,185538,album,13,2023-05-01,False,https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7
 2023-08-25,37,Haegeum,Agust D,85,168926,album,10,2023-04-21,False,https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e
@@ -5039,7 +5039,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-08-26,38,Attention,NewJeans,83,180066,single,4,2022-08-01,False,https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209
 2023-08-26,39,If We Ever Meet Again,Lim Young Woong,60,274386,album,12,2022-05-02,False,https://i.scdn.co/image/ab67616d0000b2738f116e476da669a9a3e7dcaa
 2023-08-26,40,Spicy,aespa,81,197040,single,6,2023-05-08,False,https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce
-2023-08-26,41,"Steal The Show - From ""Elemental""",Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-08-26,41,"Steal The Show - From 'Elemental',Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-08-26,42,Get Up,NewJeans,86,36226,single,6,2023-07-21,False,https://i.scdn.co/image/ab67616d0000b2730744690248ef3ba7b776ea7b
 2023-08-26,43,Sweet Night,V,80,214258,single,2,2020-03-13,False,https://i.scdn.co/image/ab67616d0000b273ea012d09e9a7a6b48adf3f3d
 2023-08-26,44,Better Things,aespa,78,203216,single,1,2023-08-18,False,https://i.scdn.co/image/ab67616d0000b27340157e24ffc34938be2b5341
@@ -5083,7 +5083,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-08-27,32,ASAP,NewJeans,86,134386,single,6,2023-07-21,False,https://i.scdn.co/image/ab67616d0000b2730744690248ef3ba7b776ea7b
 2023-08-27,33,If We Ever Meet Again,Lim Young Woong,60,274386,album,12,2022-05-02,False,https://i.scdn.co/image/ab67616d0000b2738f116e476da669a9a3e7dcaa
 2023-08-27,34,Sugarcoat (NATTY Solo),KISS OF LIFE,73,179866,single,6,2023-07-05,False,https://i.scdn.co/image/ab67616d0000b2732ff7c76b0790cd3ad63cfc0c
-2023-08-27,35,"Steal The Show - From ""Elemental""",Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-08-27,35,"Steal The Show - From 'Elemental',Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-08-27,36,Attention,NewJeans,83,180066,single,4,2022-08-01,False,https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209
 2023-08-27,37,Spicy,aespa,81,197040,single,6,2023-05-08,False,https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce
 2023-08-27,38,Left and Right (Feat. Jung Kook of BTS),Charlie Puth,85,154486,album,12,2022-10-06,False,https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49
@@ -5129,7 +5129,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-08-28,28,Sugarcoat (NATTY Solo),KISS OF LIFE,73,179866,single,6,2023-07-05,False,https://i.scdn.co/image/ab67616d0000b2732ff7c76b0790cd3ad63cfc0c
 2023-08-28,29,If We Ever Meet Again,Lim Young Woong,60,274386,album,12,2022-05-02,False,https://i.scdn.co/image/ab67616d0000b2738f116e476da669a9a3e7dcaa
 2023-08-28,30,Take Two,BTS,89,229953,single,1,2023-06-09,False,https://i.scdn.co/image/ab67616d0000b2738a701e76e8845928f6cd81c8
-2023-08-28,31,"Steal The Show - From ""Elemental""",Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-08-28,31,"Steal The Show - From 'Elemental',Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-08-28,32,Let's Say Goodbye,Parc Jae Jung,55,243853,album,10,2023-04-20,False,https://i.scdn.co/image/ab67616d0000b273473a5032790129fd7421c80e
 2023-08-28,33,"Eve, Psyche & The Bluebeard’s wife",LE SSERAFIM,84,185538,album,13,2023-05-01,False,https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7
 2023-08-28,34,ASAP,NewJeans,86,134386,single,6,2023-07-21,False,https://i.scdn.co/image/ab67616d0000b2730744690248ef3ba7b776ea7b
@@ -5184,7 +5184,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-08-29,33,I AM,IVE,85,183853,album,11,2023-04-10,False,https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8
 2023-08-29,34,Left and Right (Feat. Jung Kook of BTS),Charlie Puth,85,154486,album,12,2022-10-06,False,https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49
 2023-08-29,35,If We Ever Meet Again,Lim Young Woong,60,274386,album,12,2022-05-02,False,https://i.scdn.co/image/ab67616d0000b2738f116e476da669a9a3e7dcaa
-2023-08-29,36,"Steal The Show - From ""Elemental""",Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-08-29,36,"Steal The Show - From 'Elemental',Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-08-29,37,Love Lee,AKMU,66,179683,single,2,2023-08-21,False,https://i.scdn.co/image/ab67616d0000b273a75d7535b8657385f8232449
 2023-08-29,38,Let's Say Goodbye,Parc Jae Jung,55,243853,album,10,2023-04-20,False,https://i.scdn.co/image/ab67616d0000b273473a5032790129fd7421c80e
 2023-08-29,39,ASAP,NewJeans,86,134386,single,6,2023-07-21,False,https://i.scdn.co/image/ab67616d0000b2730744690248ef3ba7b776ea7b
@@ -5231,7 +5231,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-08-30,30,Snow Flower (feat. Peakboy),V,66,229013,single,1,2020-12-25,False,https://i.scdn.co/image/ab67616d0000b273df865c096835a346702f555a
 2023-08-30,31,Hype Boy,NewJeans,86,179026,single,4,2022-08-01,False,https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209
 2023-08-30,32,Left and Right (Feat. Jung Kook of BTS),Charlie Puth,85,154486,album,12,2022-10-06,False,https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49
-2023-08-30,33,"Steal The Show - From ""Elemental""",Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-08-30,33,"Steal The Show - From 'Elemental',Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-08-30,34,Take Two,BTS,88,229953,single,1,2023-06-09,False,https://i.scdn.co/image/ab67616d0000b2738a701e76e8845928f6cd81c8
 2023-08-30,35,I AM,IVE,85,183853,album,11,2023-04-10,False,https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8
 2023-08-30,36,Love Lee,AKMU,67,179683,single,2,2023-08-21,False,https://i.scdn.co/image/ab67616d0000b273a75d7535b8657385f8232449
@@ -5282,7 +5282,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-08-31,31,Hype Boy,NewJeans,86,179026,single,4,2022-08-01,False,https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209
 2023-08-31,32,Winter Bear,V,71,174824,single,1,2019-08-10,False,https://i.scdn.co/image/ab67616d0000b273fdd911dc550c527e1725dbd4
 2023-08-31,33,I AM,IVE,85,183853,album,11,2023-04-10,False,https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8
-2023-08-31,34,"Steal The Show - From ""Elemental""",Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-08-31,34,"Steal The Show - From 'Elemental',Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-08-31,35,Take Two,BTS,88,229953,single,1,2023-06-09,False,https://i.scdn.co/image/ab67616d0000b2738a701e76e8845928f6cd81c8
 2023-08-31,36,Let's Say Goodbye,Parc Jae Jung,55,243853,album,10,2023-04-20,False,https://i.scdn.co/image/ab67616d0000b273473a5032790129fd7421c80e
 2023-08-31,37,If We Ever Meet Again,Lim Young Woong,60,274386,album,12,2022-05-02,False,https://i.scdn.co/image/ab67616d0000b2738f116e476da669a9a3e7dcaa
@@ -5331,7 +5331,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-09-01,30,Sugarcoat (NATTY Solo),KISS OF LIFE,74,179866,single,6,2023-07-05,False,https://i.scdn.co/image/ab67616d0000b2732ff7c76b0790cd3ad63cfc0c
 2023-09-01,31,Snow Flower (feat. Peakboy),V,72,229013,single,1,2020-12-25,False,https://i.scdn.co/image/ab67616d0000b273df865c096835a346702f555a
 2023-09-01,32,Winter Bear,V,73,174824,single,1,2019-08-10,False,https://i.scdn.co/image/ab67616d0000b273fdd911dc550c527e1725dbd4
-2023-09-01,33,"Steal The Show - From ""Elemental""",Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-09-01,33,"Steal The Show - From 'Elemental',Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-09-01,34,Interlude : Dive,Jimin,77,130996,single,6,2023-03-24,False,https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d
 2023-09-01,35,If We Ever Meet Again,Lim Young Woong,60,274386,album,12,2022-05-02,False,https://i.scdn.co/image/ab67616d0000b2738f116e476da669a9a3e7dcaa
 2023-09-01,36,Take Two,BTS,88,229953,single,1,2023-06-09,False,https://i.scdn.co/image/ab67616d0000b2738a701e76e8845928f6cd81c8
@@ -5381,7 +5381,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-09-02,30,Sugarcoat (NATTY Solo),KISS OF LIFE,74,179866,single,6,2023-07-05,False,https://i.scdn.co/image/ab67616d0000b2732ff7c76b0790cd3ad63cfc0c
 2023-09-02,31,Snow Flower (feat. Peakboy),V,73,229013,single,1,2020-12-25,False,https://i.scdn.co/image/ab67616d0000b273df865c096835a346702f555a
 2023-09-02,32,Winter Bear,V,74,174824,single,1,2019-08-10,False,https://i.scdn.co/image/ab67616d0000b273fdd911dc550c527e1725dbd4
-2023-09-02,33,"Steal The Show - From ""Elemental""",Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-09-02,33,"Steal The Show - From 'Elemental',Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-09-02,34,Interlude : Dive,Jimin,77,130996,single,6,2023-03-24,False,https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d
 2023-09-02,35,If We Ever Meet Again,Lim Young Woong,60,274386,album,12,2022-05-02,False,https://i.scdn.co/image/ab67616d0000b2738f116e476da669a9a3e7dcaa
 2023-09-02,36,Take Two,BTS,88,229953,single,1,2023-06-09,False,https://i.scdn.co/image/ab67616d0000b2738a701e76e8845928f6cd81c8
@@ -5436,7 +5436,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-09-03,35,"Eve, Psyche & The Bluebeard’s wife",LE SSERAFIM,83,185538,album,13,2023-05-01,False,https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7
 2023-09-03,36,Spicy,aespa,81,197040,single,6,2023-05-08,False,https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce
 2023-09-03,37,Queencard,(G)I-DLE,88,161240,single,6,2023-05-15,False,https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616
-2023-09-03,38,"Steal The Show - From ""Elemental""",Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-09-03,38,"Steal The Show - From 'Elemental',Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-09-03,39,Paint The Town Red,Doja Cat,97,231750,single,1,2023-08-04,True,https://i.scdn.co/image/ab67616d0000b2737acee948ecac8380c1b6ce30
 2023-09-03,40,Rainbow,Lim Young Woong,58,196400,album,12,2022-05-02,False,https://i.scdn.co/image/ab67616d0000b2738f116e476da669a9a3e7dcaa
 2023-09-03,41,Cruel Summer,Taylor Swift,100,178426,album,18,2019-08-23,False,https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647
@@ -5491,7 +5491,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-09-04,40,Spicy,aespa,81,197040,single,6,2023-05-08,False,https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce
 2023-09-04,41,"Our Blues, Our Life",Lim Young Woong,58,207386,album,12,2022-05-02,False,https://i.scdn.co/image/ab67616d0000b2738f116e476da669a9a3e7dcaa
 2023-09-04,42,Queencard,(G)I-DLE,88,161240,single,6,2023-05-15,False,https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616
-2023-09-04,43,"Steal The Show - From ""Elemental""",Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-09-04,43,"Steal The Show - From 'Elemental',Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-09-04,44,Cruel Summer,Taylor Swift,100,178426,album,18,2019-08-23,False,https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647
 2023-09-04,45,Haegeum,Agust D,85,168926,album,10,2023-04-21,False,https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e
 2023-09-04,46,A bientot,Lim Young Woong,57,256372,album,12,2022-05-02,False,https://i.scdn.co/image/ab67616d0000b2738f116e476da669a9a3e7dcaa
@@ -5546,7 +5546,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-09-05,45,Let's Say Goodbye,Parc Jae Jung,55,243853,album,10,2023-04-20,False,https://i.scdn.co/image/ab67616d0000b273473a5032790129fd7421c80e
 2023-09-05,46,Seven (feat. Latto) (Alesso Remix),Jung Kook & Latto,71,162480,single,4,2023-08-25,True,https://i.scdn.co/image/ab67616d0000b2731f9db1e2f1d8705812883368
 2023-09-05,47,Rainbow,Lim Young Woong,58,196400,album,12,2022-05-02,False,https://i.scdn.co/image/ab67616d0000b2738f116e476da669a9a3e7dcaa
-2023-09-05,48,"Steal The Show - From ""Elemental""",Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-09-05,48,"Steal The Show - From 'Elemental',Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-09-05,49,Sweet Night,V,80,214258,single,2,2020-03-13,False,https://i.scdn.co/image/ab67616d0000b273ea012d09e9a7a6b48adf3f3d
 2023-09-05,50,"Our Blues, Our Life",Lim Young Woong,58,207386,album,12,2022-05-02,False,https://i.scdn.co/image/ab67616d0000b2738f116e476da669a9a3e7dcaa
 2023-09-06,1,Seven (feat. Latto) (Explicit Ver.),Jung Kook & Latto,99,184400,single,3,2023-07-14,True,https://i.scdn.co/image/ab67616d0000b273bf5cce5a0e1ed03a626bdd74
@@ -5596,7 +5596,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-09-06,45,"Eve, Psyche & The Bluebeard’s wife",LE SSERAFIM,83,185538,album,13,2023-05-01,False,https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7
 2023-09-06,46,Rainbow,Lim Young Woong,58,196400,album,12,2022-05-02,False,https://i.scdn.co/image/ab67616d0000b2738f116e476da669a9a3e7dcaa
 2023-09-06,47,Sugarcoat (NATTY Solo),KISS OF LIFE,74,179866,single,6,2023-07-05,False,https://i.scdn.co/image/ab67616d0000b2732ff7c76b0790cd3ad63cfc0c
-2023-09-06,48,"Steal The Show - From ""Elemental""",Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-09-06,48,"Steal The Show - From 'Elemental',Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-09-06,49,"Our Blues, Our Life",Lim Young Woong,58,207386,album,12,2022-05-02,False,https://i.scdn.co/image/ab67616d0000b2738f116e476da669a9a3e7dcaa
 2023-09-06,50,Better Things,aespa,81,203216,single,1,2023-08-18,False,https://i.scdn.co/image/ab67616d0000b27340157e24ffc34938be2b5341
 2023-09-07,1,Seven (feat. Latto) (Explicit Ver.),Jung Kook & Latto,99,184400,single,3,2023-07-14,True,https://i.scdn.co/image/ab67616d0000b273bf5cce5a0e1ed03a626bdd74
@@ -5742,7 +5742,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-09-09,41,Click Like (Prod. Crush) (Feat. Paul Blanco),Various Artists,60,165986,single,4,2023-09-05,False,https://i.scdn.co/image/ab67616d0000b2734c0f17fbae890e66fe861b29
 2023-09-09,42,"Eve, Psyche & The Bluebeard’s wife",LE SSERAFIM,83,185538,album,13,2023-05-01,False,https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7
 2023-09-09,43,Fry’s Dream,AKMU,60,204576,single,2,2023-08-21,False,https://i.scdn.co/image/ab67616d0000b273a75d7535b8657385f8232449
-2023-09-09,44,"Steal The Show - From ""Elemental""",Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-09-09,44,"Steal The Show - From 'Elemental',Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-09-09,45,Cruel Summer,Taylor Swift,100,178426,album,18,2019-08-23,False,https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647
 2023-09-09,46,Let's Say Goodbye,Parc Jae Jung,55,243853,album,10,2023-04-20,False,https://i.scdn.co/image/ab67616d0000b273473a5032790129fd7421c80e
 2023-09-09,47,Queencard,(G)I-DLE,87,161240,single,6,2023-05-15,False,https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616
@@ -5788,7 +5788,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-09-10,37,"Our Blues, Our Life",Lim Young Woong,59,207386,album,12,2022-05-02,False,https://i.scdn.co/image/ab67616d0000b2738f116e476da669a9a3e7dcaa
 2023-09-10,38,"Eve, Psyche & The Bluebeard’s wife",LE SSERAFIM,83,185538,album,13,2023-05-01,False,https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7
 2023-09-10,39,Let's Say Goodbye,Parc Jae Jung,55,243853,album,10,2023-04-20,False,https://i.scdn.co/image/ab67616d0000b273473a5032790129fd7421c80e
-2023-09-10,40,"Steal The Show - From ""Elemental""",Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-09-10,40,"Steal The Show - From 'Elemental',Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-09-10,41,Memories,RIIZE,72,178013,single,1,2023-08-21,False,https://i.scdn.co/image/ab67616d0000b273de06b9790ac6c49ff680cf70
 2023-09-10,42,Better Things,aespa,81,203216,single,1,2023-08-18,False,https://i.scdn.co/image/ab67616d0000b27340157e24ffc34938be2b5341
 2023-09-10,43,Queencard,(G)I-DLE,87,161240,single,6,2023-05-15,False,https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616
@@ -5838,7 +5838,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-09-11,37,"Our Blues, Our Life",Lim Young Woong,59,207386,album,12,2022-05-02,False,https://i.scdn.co/image/ab67616d0000b2738f116e476da669a9a3e7dcaa
 2023-09-11,38,"Eve, Psyche & The Bluebeard’s wife",LE SSERAFIM,83,185538,album,13,2023-05-01,False,https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7
 2023-09-11,39,Let's Say Goodbye,Parc Jae Jung,55,243853,album,10,2023-04-20,False,https://i.scdn.co/image/ab67616d0000b273473a5032790129fd7421c80e
-2023-09-11,40,"Steal The Show - From ""Elemental""",Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-09-11,40,"Steal The Show - From 'Elemental',Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-09-11,41,Memories,RIIZE,73,178013,single,1,2023-08-21,False,https://i.scdn.co/image/ab67616d0000b273de06b9790ac6c49ff680cf70
 2023-09-11,42,Better Things,aespa,81,203216,single,1,2023-08-18,False,https://i.scdn.co/image/ab67616d0000b27340157e24ffc34938be2b5341
 2023-09-11,43,Queencard,(G)I-DLE,87,161240,single,6,2023-05-15,False,https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616
@@ -5891,7 +5891,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-09-12,40,Haegeum,Agust D,85,168926,album,10,2023-04-21,False,https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e
 2023-09-12,41,Memories,RIIZE,73,178013,single,1,2023-08-21,False,https://i.scdn.co/image/ab67616d0000b273de06b9790ac6c49ff680cf70
 2023-09-12,42,But Sometimes,BOYNEXTDOOR,67,175106,single,6,2023-09-04,False,https://i.scdn.co/image/ab67616d0000b27358ba8c8fcad9be87f72e2afe
-2023-09-12,43,"Steal The Show - From ""Elemental""",Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-09-12,43,"Steal The Show - From 'Elemental',Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-09-12,44,A bientot,Lim Young Woong,58,256372,album,12,2022-05-02,False,https://i.scdn.co/image/ab67616d0000b2738f116e476da669a9a3e7dcaa
 2023-09-12,45,Baggy Jeans,NCT,63,211386,album,10,2023-08-28,False,https://i.scdn.co/image/ab67616d0000b2730723ae056bdcdb6d2872a13f
 2023-09-12,46,"Eve, Psyche & The Bluebeard’s wife",LE SSERAFIM,83,185538,album,13,2023-05-01,False,https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7
@@ -5948,7 +5948,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-09-13,47,A bientot,Lim Young Woong,58,256372,album,12,2022-05-02,False,https://i.scdn.co/image/ab67616d0000b2738f116e476da669a9a3e7dcaa
 2023-09-13,48,Click Like (Prod. Crush) (Feat. Paul Blanco),Various Artists,66,165986,single,4,2023-09-05,False,https://i.scdn.co/image/ab67616d0000b2734c0f17fbae890e66fe861b29
 2023-09-13,49,Lilith (feat. SUGA of BTS) (Diablo IV Anthem),Halsey & SUGA,78,180933,single,1,2023-06-05,True,https://i.scdn.co/image/ab67616d0000b273f19310c007c0fad365b0542e
-2023-09-13,50,"Steal The Show - From ""Elemental""",Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-09-13,50,"Steal The Show - From 'Elemental',Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-09-14,1,Seven (feat. Latto) (Explicit Ver.),Jung Kook & Latto,99,184400,single,3,2023-07-14,True,https://i.scdn.co/image/ab67616d0000b273bf5cce5a0e1ed03a626bdd74
 2023-09-14,2,Like Crazy,Jimin,94,212241,single,6,2023-03-24,False,https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d
 2023-09-14,3,Love Me Again,V,94,182293,single,2,2023-08-11,False,https://i.scdn.co/image/ab67616d0000b2732f1a5b69c2bd76474bca8035
@@ -5997,7 +5997,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-09-14,46,Let's Say Goodbye,Parc Jae Jung,55,243853,album,10,2023-04-20,False,https://i.scdn.co/image/ab67616d0000b273473a5032790129fd7421c80e
 2023-09-14,47,"Eve, Psyche & The Bluebeard’s wife",LE SSERAFIM,83,185538,album,13,2023-05-01,False,https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7
 2023-09-14,48,A bientot,Lim Young Woong,58,256372,album,12,2022-05-02,False,https://i.scdn.co/image/ab67616d0000b2738f116e476da669a9a3e7dcaa
-2023-09-14,49,"Steal The Show - From ""Elemental""",Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-09-14,49,"Steal The Show - From 'Elemental',Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-09-14,50,Better Things,aespa,81,203216,single,1,2023-08-18,False,https://i.scdn.co/image/ab67616d0000b27340157e24ffc34938be2b5341
 2023-09-15,1,Seven (feat. Latto) (Explicit Ver.),Jung Kook & Latto,99,184400,single,3,2023-07-14,True,https://i.scdn.co/image/ab67616d0000b273bf5cce5a0e1ed03a626bdd74
 2023-09-15,2,Like Crazy,Jimin,94,212241,single,6,2023-03-24,False,https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d
@@ -6041,7 +6041,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-09-15,40,Fry’s Dream,AKMU,62,204576,single,2,2023-08-21,False,https://i.scdn.co/image/ab67616d0000b273a75d7535b8657385f8232449
 2023-09-15,41,Memories,RIIZE,73,178013,single,1,2023-08-21,False,https://i.scdn.co/image/ab67616d0000b273de06b9790ac6c49ff680cf70
 2023-09-15,42,"Eve, Psyche & The Bluebeard’s wife",LE SSERAFIM,83,185538,album,13,2023-05-01,False,https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7
-2023-09-15,43,"Steal The Show - From ""Elemental""",Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-09-15,43,"Steal The Show - From 'Elemental',Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-09-15,44,Let's Say Goodbye,Parc Jae Jung,55,243853,album,10,2023-04-20,False,https://i.scdn.co/image/ab67616d0000b273473a5032790129fd7421c80e
 2023-09-15,45,Rainbow,Lim Young Woong,59,196400,album,12,2022-05-02,False,https://i.scdn.co/image/ab67616d0000b2738f116e476da669a9a3e7dcaa
 2023-09-15,46,Spicy,aespa,80,197040,single,6,2023-05-08,False,https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce
@@ -6091,7 +6091,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-09-16,40,Fry’s Dream,AKMU,62,204576,single,2,2023-08-21,False,https://i.scdn.co/image/ab67616d0000b273a75d7535b8657385f8232449
 2023-09-16,41,Memories,RIIZE,73,178013,single,1,2023-08-21,False,https://i.scdn.co/image/ab67616d0000b273de06b9790ac6c49ff680cf70
 2023-09-16,42,"Eve, Psyche & The Bluebeard’s wife",LE SSERAFIM,83,185538,album,13,2023-05-01,False,https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7
-2023-09-16,43,"Steal The Show - From ""Elemental""",Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-09-16,43,"Steal The Show - From 'Elemental',Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-09-16,44,Let's Say Goodbye,Parc Jae Jung,55,243853,album,10,2023-04-20,False,https://i.scdn.co/image/ab67616d0000b273473a5032790129fd7421c80e
 2023-09-16,45,Rainbow,Lim Young Woong,59,196400,album,12,2022-05-02,False,https://i.scdn.co/image/ab67616d0000b2738f116e476da669a9a3e7dcaa
 2023-09-16,46,Spicy,aespa,80,197040,single,6,2023-05-08,False,https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce
@@ -6136,7 +6136,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-09-17,35,Interlude : Dive,Jimin,77,130996,single,6,2023-03-24,False,https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d
 2023-09-17,36,Get A Guitar,RIIZE,72,160371,single,2,2023-09-04,False,https://i.scdn.co/image/ab67616d0000b27308f9aed64208e0f8d9e10f0e
 2023-09-17,37,Fry’s Dream,AKMU,62,204576,single,2,2023-08-21,False,https://i.scdn.co/image/ab67616d0000b273a75d7535b8657385f8232449
-2023-09-17,38,"Steal The Show - From ""Elemental""",Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-09-17,38,"Steal The Show - From 'Elemental',Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-09-17,39,"Eve, Psyche & The Bluebeard’s wife",LE SSERAFIM,83,185538,album,13,2023-05-01,False,https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7
 2023-09-17,40,Let's Say Goodbye,Parc Jae Jung,55,243853,album,10,2023-04-20,False,https://i.scdn.co/image/ab67616d0000b273473a5032790129fd7421c80e
 2023-09-17,41,Slime You Out (feat. SZA),Drake & SZA,0,310490,single,1,2023-09-15,True,https://i.scdn.co/image/ab67616d0000b2733b2df9103b8b1bad69ec4aa9
@@ -6184,7 +6184,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-09-18,33,If We Ever Meet Again,Lim Young Woong,60,274386,album,12,2022-05-02,False,https://i.scdn.co/image/ab67616d0000b2738f116e476da669a9a3e7dcaa
 2023-09-18,34,Fry’s Dream,AKMU,61,204576,single,2,2023-08-21,False,https://i.scdn.co/image/ab67616d0000b273a75d7535b8657385f8232449
 2023-09-18,35,I AM,IVE,84,183853,album,11,2023-04-10,False,https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8
-2023-09-18,36,"Steal The Show - From ""Elemental""",Lauv,76,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-09-18,36,"Steal The Show - From 'Elemental',Lauv,76,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-09-18,37,Slime You Out (feat. SZA),Drake & SZA,75,310490,single,1,2023-09-15,True,https://i.scdn.co/image/ab67616d0000b2733b2df9103b8b1bad69ec4aa9
 2023-09-18,38,Interlude : Dive,Jimin,77,130996,single,6,2023-03-24,False,https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d
 2023-09-18,39,Haegeum,Agust D,84,168926,album,10,2023-04-21,False,https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e
@@ -6238,7 +6238,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-09-19,37,Memories,RIIZE,73,178013,single,1,2023-08-21,False,https://i.scdn.co/image/ab67616d0000b273de06b9790ac6c49ff680cf70
 2023-09-19,38,But Sometimes,BOYNEXTDOOR,69,175106,single,6,2023-09-04,False,https://i.scdn.co/image/ab67616d0000b27358ba8c8fcad9be87f72e2afe
 2023-09-19,39,Baggy Jeans,NCT,64,211386,album,10,2023-08-28,False,https://i.scdn.co/image/ab67616d0000b2730723ae056bdcdb6d2872a13f
-2023-09-19,40,"Steal The Show - From ""Elemental""",Lauv,76,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-09-19,40,"Steal The Show - From 'Elemental',Lauv,76,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-09-19,41,Haegeum,Agust D,84,168926,album,10,2023-04-21,False,https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e
 2023-09-19,42,Rainbow,Lim Young Woong,58,196400,album,12,2022-05-02,False,https://i.scdn.co/image/ab67616d0000b2738f116e476da669a9a3e7dcaa
 2023-09-19,43,Cruel Summer,Taylor Swift,99,178426,album,18,2019-08-23,False,https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647
@@ -6292,7 +6292,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-09-20,41,Memories,RIIZE,73,178013,single,1,2023-08-21,False,https://i.scdn.co/image/ab67616d0000b273de06b9790ac6c49ff680cf70
 2023-09-20,42,Take Two,BTS,86,229953,single,1,2023-06-09,False,https://i.scdn.co/image/ab67616d0000b2738a701e76e8845928f6cd81c8
 2023-09-20,43,"Our Blues, Our Life",Lim Young Woong,58,207386,album,12,2022-05-02,False,https://i.scdn.co/image/ab67616d0000b2738f116e476da669a9a3e7dcaa
-2023-09-20,44,"Steal The Show - From ""Elemental""",Lauv,76,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-09-20,44,"Steal The Show - From 'Elemental',Lauv,76,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-09-20,45,Cruel Summer,Taylor Swift,99,178426,album,18,2019-08-23,False,https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647
 2023-09-20,46,Baggy Jeans,NCT,64,211386,album,10,2023-08-28,False,https://i.scdn.co/image/ab67616d0000b2730723ae056bdcdb6d2872a13f
 2023-09-20,47,But Sometimes,BOYNEXTDOOR,69,175106,single,6,2023-09-04,False,https://i.scdn.co/image/ab67616d0000b27358ba8c8fcad9be87f72e2afe
@@ -6342,7 +6342,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-09-21,41,Memories,RIIZE,73,178013,single,1,2023-08-21,False,https://i.scdn.co/image/ab67616d0000b273de06b9790ac6c49ff680cf70
 2023-09-21,42,Take Two,BTS,86,229953,single,1,2023-06-09,False,https://i.scdn.co/image/ab67616d0000b2738a701e76e8845928f6cd81c8
 2023-09-21,43,"Our Blues, Our Life",Lim Young Woong,58,207386,album,12,2022-05-02,False,https://i.scdn.co/image/ab67616d0000b2738f116e476da669a9a3e7dcaa
-2023-09-21,44,"Steal The Show - From ""Elemental""",Lauv,76,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-09-21,44,"Steal The Show - From 'Elemental',Lauv,76,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-09-21,45,Cruel Summer,Taylor Swift,99,178426,album,18,2019-08-23,False,https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647
 2023-09-21,46,Baggy Jeans,NCT,64,211386,album,10,2023-08-28,False,https://i.scdn.co/image/ab67616d0000b2730723ae056bdcdb6d2872a13f
 2023-09-21,47,But Sometimes,BOYNEXTDOOR,70,175106,single,6,2023-09-04,False,https://i.scdn.co/image/ab67616d0000b27358ba8c8fcad9be87f72e2afe
@@ -6389,7 +6389,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-09-22,38,Interlude : Dive,Jimin,76,130996,single,6,2023-03-24,False,https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d
 2023-09-22,39,Haegeum,Agust D,83,168926,album,10,2023-04-21,False,https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e
 2023-09-22,40,Take Two,BTS,85,229953,single,1,2023-06-09,False,https://i.scdn.co/image/ab67616d0000b2738a701e76e8845928f6cd81c8
-2023-09-22,41,"Steal The Show - From ""Elemental""",Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-09-22,41,"Steal The Show - From 'Elemental',Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-09-22,42,"Eve, Psyche & The Bluebeard’s wife",LE SSERAFIM,82,185538,album,13,2023-05-01,False,https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7
 2023-09-22,43,Rainbow,Lim Young Woong,58,196400,album,12,2022-05-02,False,https://i.scdn.co/image/ab67616d0000b2738f116e476da669a9a3e7dcaa
 2023-09-22,44,Memories,RIIZE,73,178013,single,1,2023-08-21,False,https://i.scdn.co/image/ab67616d0000b273de06b9790ac6c49ff680cf70
@@ -6443,7 +6443,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-09-23,42,"Eve, Psyche & The Bluebeard’s wife",LE SSERAFIM,82,185538,album,13,2023-05-01,False,https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7
 2023-09-23,43,Take Two,BTS,85,229953,single,1,2023-06-09,False,https://i.scdn.co/image/ab67616d0000b2738a701e76e8845928f6cd81c8
 2023-09-23,44,Haegeum,Agust D,83,168926,album,10,2023-04-21,False,https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e
-2023-09-23,45,"Steal The Show - From ""Elemental""",Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-09-23,45,"Steal The Show - From 'Elemental',Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-09-23,46,Let's Say Goodbye,Parc Jae Jung,55,243853,album,10,2023-04-20,False,https://i.scdn.co/image/ab67616d0000b273473a5032790129fd7421c80e
 2023-09-23,47,Memories,RIIZE,73,178013,single,1,2023-08-21,False,https://i.scdn.co/image/ab67616d0000b273de06b9790ac6c49ff680cf70
 2023-09-23,48,アイドル,YOASOBI,86,213233,single,1,2023-04-12,False,https://i.scdn.co/image/ab67616d0000b273b7d6ca50bf766ad72226290c
@@ -6491,7 +6491,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-09-24,40,Rainbow,Lim Young Woong,58,196400,album,12,2022-05-02,False,https://i.scdn.co/image/ab67616d0000b2738f116e476da669a9a3e7dcaa
 2023-09-24,41,Let's Say Goodbye,Parc Jae Jung,55,243853,album,10,2023-04-20,False,https://i.scdn.co/image/ab67616d0000b273473a5032790129fd7421c80e
 2023-09-24,42,"Eve, Psyche & The Bluebeard’s wife",LE SSERAFIM,82,185538,album,13,2023-05-01,False,https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7
-2023-09-24,43,"Steal The Show - From ""Elemental""",Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-09-24,43,"Steal The Show - From 'Elemental',Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-09-24,44,アイドル,YOASOBI,86,213233,single,1,2023-04-12,False,https://i.scdn.co/image/ab67616d0000b273b7d6ca50bf766ad72226290c
 2023-09-24,45,Cruel Summer,Taylor Swift,98,178426,album,18,2019-08-23,False,https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647
 2023-09-24,46,"Our Blues, Our Life",Lim Young Woong,58,207386,album,12,2022-05-02,False,https://i.scdn.co/image/ab67616d0000b2738f116e476da669a9a3e7dcaa
@@ -6543,7 +6543,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-09-25,42,Cruel Summer,Taylor Swift,98,178426,album,18,2019-08-23,False,https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647
 2023-09-25,43,A bientot,Lim Young Woong,57,256372,album,12,2022-05-02,False,https://i.scdn.co/image/ab67616d0000b2738f116e476da669a9a3e7dcaa
 2023-09-25,44,アイドル,YOASOBI,86,213233,single,1,2023-04-12,False,https://i.scdn.co/image/ab67616d0000b273b7d6ca50bf766ad72226290c
-2023-09-25,45,"Steal The Show - From ""Elemental""",Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-09-25,45,"Steal The Show - From 'Elemental',Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-09-25,46,"Eve, Psyche & The Bluebeard’s wife",LE SSERAFIM,81,185538,album,13,2023-05-01,False,https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7
 2023-09-25,47,Interlude : Dive,Jimin,76,130996,single,6,2023-03-24,False,https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d
 2023-09-25,48,I Love You,Lim Young Woong,55,239026,album,12,2022-05-02,False,https://i.scdn.co/image/ab67616d0000b2738f116e476da669a9a3e7dcaa
@@ -6593,7 +6593,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-09-26,42,Cruel Summer,Taylor Swift,98,178426,album,18,2019-08-23,False,https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647
 2023-09-26,43,A bientot,Lim Young Woong,57,256372,album,12,2022-05-02,False,https://i.scdn.co/image/ab67616d0000b2738f116e476da669a9a3e7dcaa
 2023-09-26,44,アイドル,YOASOBI,86,213233,single,1,2023-04-12,False,https://i.scdn.co/image/ab67616d0000b273b7d6ca50bf766ad72226290c
-2023-09-26,45,"Steal The Show - From ""Elemental""",Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-09-26,45,"Steal The Show - From 'Elemental',Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-09-26,46,"Eve, Psyche & The Bluebeard’s wife",LE SSERAFIM,81,185538,album,13,2023-05-01,False,https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7
 2023-09-26,47,Interlude : Dive,Jimin,76,130996,single,6,2023-03-24,False,https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d
 2023-09-26,48,I Love You,Lim Young Woong,55,239026,album,12,2022-05-02,False,https://i.scdn.co/image/ab67616d0000b2738f116e476da669a9a3e7dcaa
@@ -6648,7 +6648,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-09-27,47,Memories,RIIZE,73,178013,single,1,2023-08-21,False,https://i.scdn.co/image/ab67616d0000b273de06b9790ac6c49ff680cf70
 2023-09-27,48,A bientot,Lim Young Woong,57,256372,album,12,2022-05-02,False,https://i.scdn.co/image/ab67616d0000b2738f116e476da669a9a3e7dcaa
 2023-09-27,49,But Sometimes,BOYNEXTDOOR,70,175106,single,6,2023-09-04,False,https://i.scdn.co/image/ab67616d0000b27358ba8c8fcad9be87f72e2afe
-2023-09-27,50,"Steal The Show - From ""Elemental""",Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-09-27,50,"Steal The Show - From 'Elemental',Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-09-28,1,Seven (feat. Latto) (Explicit Ver.),Jung Kook & Latto,97,184400,single,3,2023-07-14,True,https://i.scdn.co/image/ab67616d0000b273bf5cce5a0e1ed03a626bdd74
 2023-09-28,2,Like Crazy,Jimin,93,212241,single,6,2023-03-24,False,https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d
 2023-09-28,3,Like Crazy (English Version),Jimin,85,212253,single,6,2023-03-24,False,https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d
@@ -6696,7 +6696,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-09-28,45,Haegeum,Agust D,83,168926,album,10,2023-04-21,False,https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e
 2023-09-28,46,Let's Say Goodbye,Parc Jae Jung,55,243853,album,10,2023-04-20,False,https://i.scdn.co/image/ab67616d0000b273473a5032790129fd7421c80e
 2023-09-28,47,Rainbow,Lim Young Woong,58,196400,album,12,2022-05-02,False,https://i.scdn.co/image/ab67616d0000b2738f116e476da669a9a3e7dcaa
-2023-09-28,48,"Steal The Show - From ""Elemental""",Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-09-28,48,"Steal The Show - From 'Elemental',Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-09-28,49,Attention,NewJeans,81,180066,single,4,2022-08-01,False,https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209
 2023-09-28,50,Baggy Jeans,NCT,64,211386,album,10,2023-08-28,False,https://i.scdn.co/image/ab67616d0000b2730723ae056bdcdb6d2872a13f
 2023-09-29,1,Seven (feat. Latto) (Explicit Ver.),Jung Kook & Latto,97,184400,single,3,2023-07-14,True,https://i.scdn.co/image/ab67616d0000b273bf5cce5a0e1ed03a626bdd74
@@ -6740,7 +6740,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-09-29,39,"Eve, Psyche & The Bluebeard’s wife",LE SSERAFIM,81,185538,album,13,2023-05-01,False,https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7
 2023-09-29,40,Haegeum,Agust D,83,168926,album,10,2023-04-21,False,https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e
 2023-09-29,41,Take Two,BTS,85,229953,single,1,2023-06-09,False,https://i.scdn.co/image/ab67616d0000b2738a701e76e8845928f6cd81c8
-2023-09-29,42,"Steal The Show - From ""Elemental""",Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-09-29,42,"Steal The Show - From 'Elemental',Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-09-29,43,アイドル,YOASOBI,86,213233,single,1,2023-04-12,False,https://i.scdn.co/image/ab67616d0000b273b7d6ca50bf766ad72226290c
 2023-09-29,44,Cruel Summer,Taylor Swift,98,178426,album,18,2019-08-23,False,https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647
 2023-09-29,45,Rainbow,Lim Young Woong,58,196400,album,12,2022-05-02,False,https://i.scdn.co/image/ab67616d0000b2738f116e476da669a9a3e7dcaa
@@ -6796,7 +6796,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-09-30,45,アイドル,YOASOBI,86,213233,single,1,2023-04-12,False,https://i.scdn.co/image/ab67616d0000b273b7d6ca50bf766ad72226290c
 2023-09-30,46,"Our Blues, Our Life",Lim Young Woong,58,207386,album,12,2022-05-02,False,https://i.scdn.co/image/ab67616d0000b2738f116e476da669a9a3e7dcaa
 2023-09-30,47,My You,Jung Kook,79,165070,single,1,2022-06-13,False,https://i.scdn.co/image/ab67616d0000b2733c036f2042fc3567248c116d
-2023-09-30,48,"Steal The Show - From ""Elemental""",Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-09-30,48,"Steal The Show - From 'Elemental',Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-09-30,49,Let's Say Goodbye,Parc Jae Jung,55,243853,album,10,2023-04-20,False,https://i.scdn.co/image/ab67616d0000b273473a5032790129fd7421c80e
 2023-09-30,50,A bientot,Lim Young Woong,57,256372,album,12,2022-05-02,False,https://i.scdn.co/image/ab67616d0000b2738f116e476da669a9a3e7dcaa
 2023-10-01,1,Seven (feat. Latto) (Explicit Ver.),Jung Kook & Latto,97,184400,single,3,2023-07-14,True,https://i.scdn.co/image/ab67616d0000b273bf5cce5a0e1ed03a626bdd74
@@ -6846,7 +6846,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-10-01,45,アイドル,YOASOBI,86,213233,single,1,2023-04-12,False,https://i.scdn.co/image/ab67616d0000b273b7d6ca50bf766ad72226290c
 2023-10-01,46,"Our Blues, Our Life",Lim Young Woong,58,207386,album,12,2022-05-02,False,https://i.scdn.co/image/ab67616d0000b2738f116e476da669a9a3e7dcaa
 2023-10-01,47,My You,Jung Kook,79,165070,single,1,2022-06-13,False,https://i.scdn.co/image/ab67616d0000b2733c036f2042fc3567248c116d
-2023-10-01,48,"Steal The Show - From ""Elemental""",Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-10-01,48,"Steal The Show - From 'Elemental',Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-10-01,49,Let's Say Goodbye,Parc Jae Jung,55,243853,album,10,2023-04-20,False,https://i.scdn.co/image/ab67616d0000b273473a5032790129fd7421c80e
 2023-10-01,50,A bientot,Lim Young Woong,57,256372,album,12,2022-05-02,False,https://i.scdn.co/image/ab67616d0000b2738f116e476da669a9a3e7dcaa
 2023-10-02,1,Seven (feat. Latto) (Explicit Ver.),Jung Kook & Latto,97,184400,single,3,2023-07-14,True,https://i.scdn.co/image/ab67616d0000b273bf5cce5a0e1ed03a626bdd74
@@ -6897,7 +6897,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-10-02,46,"Eve, Psyche & The Bluebeard’s wife",LE SSERAFIM,81,185538,album,13,2023-05-01,False,https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7
 2023-10-02,47,Memories,RIIZE,74,178013,single,1,2023-08-21,False,https://i.scdn.co/image/ab67616d0000b273de06b9790ac6c49ff680cf70
 2023-10-02,48,Love Always Run Away,Lim Young Woong,57,242760,single,2,2021-10-11,False,https://i.scdn.co/image/ab67616d0000b273e56f69fd58795fbbcbc919f2
-2023-10-02,49,"Steal The Show - From ""Elemental""",Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-10-02,49,"Steal The Show - From 'Elemental',Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-10-02,50,Better Things,aespa,80,203216,single,1,2023-08-18,False,https://i.scdn.co/image/ab67616d0000b27340157e24ffc34938be2b5341
 2023-10-03,1,Seven (feat. Latto) (Explicit Ver.),Jung Kook & Latto,97,184400,single,3,2023-07-14,True,https://i.scdn.co/image/ab67616d0000b273bf5cce5a0e1ed03a626bdd74
 2023-10-03,2,3D (feat. Jack Harlow),Jung Kook & Jack Harlow,88,201812,single,3,2023-09-29,True,https://i.scdn.co/image/ab67616d0000b273409a2d7bd4b2238e4aaa7bf5
@@ -6947,7 +6947,7 @@ date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release
 2023-10-03,46,"Eve, Psyche & The Bluebeard’s wife",LE SSERAFIM,81,185538,album,13,2023-05-01,False,https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7
 2023-10-03,47,Memories,RIIZE,74,178013,single,1,2023-08-21,False,https://i.scdn.co/image/ab67616d0000b273de06b9790ac6c49ff680cf70
 2023-10-03,48,Love Always Run Away,Lim Young Woong,57,242760,single,2,2021-10-11,False,https://i.scdn.co/image/ab67616d0000b273e56f69fd58795fbbcbc919f2
-2023-10-03,49,"Steal The Show - From ""Elemental""",Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
+2023-10-03,49,"Steal The Show - From 'Elemental',Lauv,77,191779,single,1,2023-06-02,False,https://i.scdn.co/image/ab67616d0000b27322bbb2bd9c0d6bec5057d535
 2023-10-03,50,Better Things,aespa,80,203216,single,1,2023-08-18,False,https://i.scdn.co/image/ab67616d0000b27340157e24ffc34938be2b5341
 2023-10-04,1,Seven (feat. Latto) (Explicit Ver.),Jung Kook & Latto,97,184400,single,3,2023-07-14,True,https://i.scdn.co/image/ab67616d0000b273bf5cce5a0e1ed03a626bdd74
 2023-10-04,2,3D (feat. Jack Harlow),Jung Kook & Jack Harlow,67,201812,album,7,2023-10-02,True,https://i.scdn.co/image/ab67616d0000b27399583bb32b47e87d55c6064b
